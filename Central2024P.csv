@@ -1,0 +1,2501 @@
+Price,Area,Age,Tenure,Purchaser,Region
+1412345,678.13,7,Leasehold,HDB,Bishan
+960000,484.38,7,Leasehold,Private,Bishan
+2180000,1280.92,8,Leasehold,HDB,Bishan
+2450000,1248.62,12,Leasehold,Private,Bishan
+2300000,1367.03,8,Leasehold,Private,Bishan
+1475000,904.18,8,Leasehold,Private,Bishan
+2100000,1291.68,12,Leasehold,HDB,Bishan
+1300000,882.65,19,Leasehold,HDB,Bishan
+1270000,678.13,7,Leasehold,Private,Bishan
+2150000,1248.62,12,Leasehold,Private,Bishan
+1866000,904.18,1,Leasehold,HDB,Bishan
+1575000,764.24,1,Leasehold,Private,Bishan
+1715000,1345.5,29,Leasehold,Private,Bishan
+1520000,947.23,8,Leasehold,Private,Bishan
+1330000,968.76,23,Leasehold,Private,Bishan
+1750000,1323.97,29,Leasehold,Private,Bishan
+1880000,1259.39,31,Freehold,Private,Bishan
+2200000,1345.5,8,Leasehold,Private,Bishan
+2050000,1011.82,1,Leasehold,HDB,Bishan
+2248000,1011.82,1,Leasehold,Private,Bishan
+1720000,1011.82,8,Leasehold,Private,Bishan
+1225000,882.65,19,Leasehold,HDB,Bishan
+1813000,979.52,11,Freehold,HDB,Bishan
+1580000,764.24,1,Leasehold,Private,Bishan
+1550000,764.24,1,Leasehold,Private,Bishan
+1090000,710.42,8,Leasehold,HDB,Bishan
+2508000,1657.66,8,Leasehold,HDB,Bishan
+2720000,1442.38,27,Freehold,HDB,Bishan
+1880000,1550.02,29,Leasehold,Private,Bishan
+1975000,904.18,1,Leasehold,HDB,Bishan
+1420000,645.84,1,Leasehold,Private,Bishan
+1320000,678.13,7,Leasehold,Private,Bishan
+1308000,645.84,1,Leasehold,HDB,Bishan
+1630000,893.41,8,Leasehold,HDB,Bishan
+2480000,1140.98,7,Leasehold,Private,Bishan
+980000,495.14,7,Leasehold,Private,Bishan
+1742000,1345.5,29,Leasehold,Private,Bishan
+2095000,1216.33,12,Leasehold,Private,Bishan
+1600000,764.24,1,Leasehold,Private,Bishan
+1818000,1313.21,36,Leasehold,Private,Bishan
+2100000,1248.62,12,Leasehold,Private,Bishan
+2910000,1765.3,12,Leasehold,HDB,Bishan
+2350000,1291.68,12,Leasehold,HDB,Bishan
+1610000,1184.04,18,Leasehold,Private,Bishan
+2550000,1140.98,1,Leasehold,Private,Bishan
+1548888,764.24,1,Leasehold,Private,Bishan
+1800000,1022.58,8,Leasehold,HDB,Bishan
+2190000,1291.68,12,Leasehold,HDB,Bishan
+1680000,764.24,1,Leasehold,HDB,Bishan
+3020000,1743.77,12,Leasehold,Private,Bishan
+1500000,764.24,1,Leasehold,Private,Bishan
+2100000,1485.43,18,Leasehold,HDB,Bishan
+2500000,1367.03,8,Leasehold,Private,Bishan
+1918000,1205.57,19,Leasehold,Private,Bishan
+1580000,764.24,1,Leasehold,HDB,Bishan
+1285000,882.65,19,Leasehold,Private,Bishan
+1388888,678.13,7,Leasehold,Private,Bishan
+1616000,893.41,8,Leasehold,Private,Bishan
+1040000,645.84,20,Freehold,Private,Bishan
+2215000,1011.82,1,Leasehold,Private,Bishan
+1600000,796.54,7,Leasehold,Private,Bishan
+1868000,1205.57,19,Leasehold,Private,Bishan
+1200000,914.94,20,Leasehold,Private,Bishan
+2190000,1140.98,7,Leasehold,Private,Bishan
+2055000,1506.96,29,Leasehold,Private,Bishan
+2010000,904.18,1,Leasehold,Private,Bishan
+1310000,893.41,31,Freehold,HDB,Bishan
+1650000,1022.58,8,Leasehold,Private,Bishan
+1730000,1011.82,8,Leasehold,Private,Bishan
+2800000,1571.54,39,Freehold,Private,Bishan
+1418888,645.84,1,Leasehold,HDB,Bishan
+1633000,1270.15,29,Leasehold,Private,Bishan
+1680000,764.24,1,Leasehold,Private,Bishan
+1400000,678.13,7,Leasehold,HDB,Bishan
+1980000,1140.98,7,Leasehold,Private,Bishan
+1538000,764.24,1,Leasehold,Private,Bishan
+987000,495.14,7,Leasehold,Private,Bishan
+1395000,645.84,1,Leasehold,HDB,Bishan
+2325000,1248.62,8,Leasehold,HDB,Bishan
+2298000,1367.03,8,Leasehold,Private,Bishan
+1170000,527.44,1,Leasehold,Private,Bishan
+2250000,1280.92,12,Leasehold,Private,Bishan
+2080000,1162.51,8,Leasehold,HDB,Bishan
+1650000,1065.64,8,Leasehold,Private,Bishan
+2250000,1248.62,8,Leasehold,HDB,Bishan
+1735000,1323.97,29,Leasehold,Private,Bishan
+3260000,2195.86,8,Leasehold,Private,Bishan
+1688000,828.83,7,Leasehold,HDB,Bishan
+2128000,1291.68,12,Leasehold,Private,Bishan
+1750000,904.18,1,Leasehold,Private,Bishan
+1630000,958,8,Leasehold,HDB,Bishan
+1850000,904.18,1,Leasehold,HDB,Bishan
+2240000,1011.82,1,Leasehold,Private,Bishan
+2330000,1054.87,1,Leasehold,Private,Bishan
+1232000,882.65,19,Leasehold,HDB,Bishan
+1800000,1151.75,19,Leasehold,Private,Bishan
+982500,484.38,7,Leasehold,HDB,Bishan
+2422000,1571.54,19,Leasehold,Private,Bishan
+1950000,1151.75,19,Leasehold,HDB,Bishan
+1620000,968.76,8,Leasehold,Private,Bishan
+1330000,678.13,7,Leasehold,Private,Bishan
+2200000,1011.82,1,Leasehold,Private,Bishan
+2320000,1291.68,12,Leasehold,HDB,Bishan
+3158000,1862.17,34,Freehold,Private,Bishan
+2450000,1399.32,8,Leasehold,Private,Bishan
+1608000,775.01,1,Leasehold,Private,Bishan
+2770000,1743.77,12,Leasehold,Private,Bishan
+1670000,947.23,8,Leasehold,HDB,Bishan
+1720000,764.24,1,Leasehold,HDB,Bishan
+1950000,1506.96,29,Leasehold,Private,Bishan
+1350000,678.13,7,Leasehold,HDB,Bishan
+1730088,775.01,1,Leasehold,HDB,Bishan
+2100000,1356.26,8,Leasehold,HDB,Bishan
+2200000,1356.26,8,Leasehold,Private,Bishan
+1598000,764.24,1,Leasehold,Private,Bishan
+1528888,796.54,7,Leasehold,Private,Bishan
+1245000,882.65,19,Leasehold,Private,Bishan
+1400000,710.42,8,Leasehold,HDB,Bishan
+2980000,1700.71,11,Freehold,Private,Bishan
+1630000,1270.15,29,Leasehold,Private,Bishan
+1988000,904.18,1,Leasehold,Private,Bishan
+2350000,1367.03,8,Leasehold,Private,Bishan
+1320000,936.47,18,Leasehold,Private,Bishan
+1610000,979.52,23,Leasehold,Private,Bishan
+3628888,2120.51,39,Freehold,Private,Bishan
+1590000,764.24,1,Leasehold,HDB,Bishan
+1880000,904.18,1,Leasehold,Private,Bishan
+2080000,1011.82,1,Leasehold,Private,Bishan
+2080000,1216.33,12,Leasehold,HDB,Bishan
+1168000,527.44,1,Leasehold,HDB,Bishan
+1600000,1140.98,23,Leasehold,HDB,Bishan
+2038888,904.18,1,Leasehold,Private,Bishan
+4120000,2098.98,1,Leasehold,Private,Bishan
+2500000,2023.63,36,Leasehold,HDB,Bishan
+960000,495.14,7,Leasehold,Private,Bishan
+1420000,1140.98,23,Leasehold,HDB,Bishan
+1238000,914.94,20,Leasehold,HDB,Bishan
+1100000,527.44,1,Leasehold,Private,Bishan
+3228000,1829.88,34,Freehold,Private,Bishan
+2070000,1323.97,20,Leasehold,HDB,Bishan
+1900000,1485.43,18,Leasehold,Private,Bishan
+1860000,1194.8,20,Leasehold,Private,Bishan
+1900000,1227.1,19,Leasehold,HDB,Bishan
+1650000,1345.5,29,Leasehold,HDB,Bishan
+4550000,2098.98,1,Leasehold,Private,Bishan
+1240000,914.94,20,Leasehold,Private,Bishan
+2180000,1280.92,12,Leasehold,Private,Bishan
+1640000,764.24,1,Leasehold,Private,Bishan
+1700000,1313.21,36,Leasehold,Private,Bishan
+1800000,1194.8,20,Leasehold,HDB,Bishan
+1730000,1313.21,36,Leasehold,Private,Bishan
+1910000,904.18,1,Leasehold,Private,Bishan
+3570000,1646.89,1,Leasehold,Private,Bishan
+1638000,1184.04,18,Leasehold,Private,Bishan
+1800000,1194.8,8,Leasehold,Private,Bishan
+3150000,1797.59,8,Leasehold,HDB,Bishan
+3400000,1797.59,8,Leasehold,Private,Bishan
+1808000,1162.51,23,Leasehold,Private,Bishan
+1110000,527.44,1,Leasehold,Private,Bishan
+1760000,1022.58,8,Leasehold,Private,Bishan
+1538000,796.54,7,Leasehold,Private,Bishan
+2288888,1248.62,12,Leasehold,Private,Bishan
+1730000,1313.21,36,Leasehold,Private,Bishan
+1900005,1194.8,8,Leasehold,Private,Bishan
+1840000,1302.44,20,Leasehold,Private,Bishan
+2350000,1140.98,7,Leasehold,HDB,Bishan
+1480000,1076.4,20,Leasehold,Private,Bishan
+1675000,1291.68,29,Leasehold,Private,Bishan
+2460000,1140.98,7,Leasehold,Private,Bishan
+1338000,850.36,7,Leasehold,Private,Bishan
+2300000,1571.54,19,Leasehold,Private,Bishan
+1850000,904.18,1,Leasehold,Private,Bishan
+2360000,1291.68,12,Leasehold,HDB,Bishan
+2650000,1582.31,12,Leasehold,HDB,Bishan
+2398000,1291.68,12,Leasehold,Private,Bishan
+2300000,1140.98,7,Leasehold,Private,Bishan
+1400000,678.13,7,Leasehold,Private,Bishan
+1390000,645.84,1,Leasehold,Private,Bishan
+1668000,764.24,1,Leasehold,HDB,Bishan
+1933308,1506.96,29,Leasehold,HDB,Bishan
+1910000,904.18,1,Leasehold,Private,Bishan
+2820000,1593.07,34,Freehold,Private,Bishan
+2500000,1140.98,7,Leasehold,HDB,Bishan
+1320000,678.13,7,Leasehold,HDB,Bishan
+2300000,1140.98,7,Leasehold,Private,Bishan
+1360000,645.84,1,Leasehold,Private,Bishan
+1780000,1291.68,29,Leasehold,Private,Bishan
+2950000,2012.87,35,Freehold,HDB,Bishan
+950000,484.38,7,Leasehold,HDB,Bishan
+3448888,1862.17,8,Leasehold,Private,Bishan
+1790000,1270.15,18,Leasehold,Private,Bishan
+1670000,764.24,1,Leasehold,HDB,Bishan
+1768000,775.01,1,Leasehold,Private,Bishan
+1578000,764.24,1,Leasehold,HDB,Bishan
+1638000,807.3,7,Leasehold,HDB,Bishan
+980000,484.38,7,Leasehold,Private,Bishan
+1680000,775.01,1,Leasehold,HDB,Bishan
+2430000,1140.98,7,Leasehold,HDB,Bishan
+2150000,1399.32,14,Leasehold,Private,Bukit Merah
+1725000,979.52,12,Leasehold,HDB,Bukit Merah
+7190000,2680.24,7,Leasehold,Private,Bukit Merah
+9600000,3444.48,7,Leasehold,Private,Bukit Merah
+1560000,764.24,5,Leasehold,HDB,Bukit Merah
+3700000,2120.51,22,Leasehold,Private,Bukit Merah
+1700000,731.95,7,Leasehold,Private,Bukit Merah
+1600000,764.24,5,Leasehold,Private,Bukit Merah
+1660000,979.52,25,Leasehold,Private,Bukit Merah
+1680000,947.23,12,Leasehold,Private,Bukit Merah
+3450000,1743.77,6,Leasehold,Private,Bukit Merah
+920000,495.14,5,Leasehold,HDB,Bukit Merah
+1720000,742.72,5,Leasehold,Private,Bukit Merah
+950000,484.38,5,Leasehold,Private,Bukit Merah
+2038888,1001.05,7,Leasehold,HDB,Bukit Merah
+3200000,1410.08,10,Freehold,Private,Bukit Merah
+1550000,1001.05,30,Leasehold,Private,Bukit Merah
+11600000,4854.56,7,Leasehold,Private,Bukit Merah
+1750000,947.23,7,Leasehold,Private,Bukit Merah
+2800000,1539.25,6,Leasehold,Private,Bukit Merah
+1750000,1162.51,30,Leasehold,Private,Bukit Merah
+1830000,861.12,7,Leasehold,HDB,Bukit Merah
+2240000,947.23,10,Freehold,Private,Bukit Merah
+7340200,2647.94,7,Leasehold,Private,Bukit Merah
+1380000,602.78,10,Freehold,Private,Bukit Merah
+3050000,1776.06,10,Leasehold,Private,Bukit Merah
+2228000,1227.1,19,Leasehold,Private,Bukit Merah
+1938000,1001.05,7,Leasehold,HDB,Bukit Merah
+2500000,1539.25,12,Leasehold,Private,Bukit Merah
+1580000,731.95,7,Leasehold,Private,Bukit Merah
+1895000,1001.05,7,Leasehold,HDB,Bukit Merah
+2370000,1313.21,19,Leasehold,Private,Bukit Merah
+2028000,1001.05,7,Leasehold,Private,Bukit Merah
+1930000,828.83,8,Freehold,Private,Bukit Merah
+2450000,1399.32,14,Leasehold,Private,Bukit Merah
+1980000,904.18,5,Leasehold,HDB,Bukit Merah
+1845000,828.83,8,Freehold,Private,Bukit Merah
+1680000,731.95,7,Leasehold,Private,Bukit Merah
+2720000,1560.78,12,Leasehold,Private,Bukit Merah
+1700000,1044.11,10,Leasehold,HDB,Bukit Merah
+2900000,1442.38,16,Freehold,Private,Bukit Merah
+1420000,807.3,10,Leasehold,Private,Bukit Merah
+2050000,1377.79,22,Leasehold,Private,Bukit Merah
+1650000,699.66,5,Leasehold,HDB,Bukit Merah
+1380000,850.36,25,Leasehold,Private,Bukit Merah
+2710000,1474.67,10,Leasehold,Private,Bukit Merah
+2100000,1248.62,22,Leasehold,Private,Bukit Merah
+1500000,871.88,22,Leasehold,Private,Bukit Merah
+2038000,1184.04,12,Leasehold,Private,Bukit Merah
+3580000,1636.13,13,Freehold,Private,Bukit Merah
+7900000,2938.57,12,Leasehold,Private,Bukit Merah
+2610000,1474.67,10,Leasehold,Private,Bukit Merah
+945000,495.14,5,Leasehold,HDB,Bukit Merah
+1211688,505.91,5,Leasehold,Private,Bukit Merah
+2820000,1474.67,8,Freehold,Private,Bukit Merah
+2100000,1001.05,7,Leasehold,HDB,Bukit Merah
+3070000,1474.67,8,Freehold,Private,Bukit Merah
+3500000,3907.33,10,Leasehold,Private,Bukit Merah
+1880000,1011.82,10,Leasehold,Private,Bukit Merah
+1870000,1097.93,25,Leasehold,Private,Bukit Merah
+2300000,1119.46,17,Leasehold,Private,Bukit Merah
+1825000,1108.69,12,Leasehold,Private,Bukit Merah
+3200000,1614.6,12,Leasehold,Private,Bukit Merah
+1830000,1151.75,22,Leasehold,Private,Bukit Merah
+2460000,1550.02,12,Leasehold,HDB,Bukit Merah
+1875000,1140.98,22,Leasehold,Private,Bukit Merah
+1650000,1162.51,18,Leasehold,Private,Bukit Merah
+1575000,699.66,5,Leasehold,Private,Bukit Merah
+3090000,1463.9,7,Leasehold,Private,Bukit Merah
+6985000,2594.12,7,Leasehold,Private,Bukit Merah
+1480000,893.41,12,Leasehold,Private,Bukit Merah
+1580000,968.76,25,Leasehold,Private,Bukit Merah
+1200000,645.84,9,Freehold,Private,Bukit Merah
+3060000,1851.41,10,Leasehold,Private,Bukit Merah
+1560000,764.24,5,Leasehold,HDB,Bukit Merah
+3128888,2583.36,19,Leasehold,Private,Bukit Merah
+845000,452.09,7,Leasehold,Private,Bukit Merah
+2495000,1216.33,16,Freehold,Private,Bukit Merah
+2300000,1280.92,19,Leasehold,Private,Bukit Merah
+1600000,861.12,6,Leasehold,Private,Bukit Merah
+1640000,893.41,19,Leasehold,Private,Bukit Merah
+1600000,839.59,17,Leasehold,Private,Bukit Merah
+1900000,861.12,5,Leasehold,Private,Bukit Merah
+2318000,1280.92,19,Leasehold,Private,Bukit Merah
+1080000,505.91,5,Leasehold,HDB,Bukit Merah
+2680000,1765.3,10,Leasehold,Private,Bukit Merah
+950000,495.14,5,Leasehold,Private,Bukit Merah
+1998000,1291.68,28,Leasehold,Private,Bukit Merah
+1780000,796.54,5,Leasehold,Private,Bukit Merah
+3800000,2357.32,12,Leasehold,Private,Bukit Merah
+3200000,1937.52,10,Leasehold,Private,Bukit Merah
+1820000,1076.4,12,Leasehold,HDB,Bukit Merah
+2450000,1280.92,6,Leasehold,HDB,Bukit Merah
+1760000,1044.11,25,Leasehold,Private,Bukit Merah
+2718000,1313.21,7,Leasehold,Private,Bukit Merah
+6800000,2723.29,7,Leasehold,Private,Bukit Merah
+1818000,828.83,8,Freehold,Private,Bukit Merah
+3150000,2583.36,19,Leasehold,Private,Bukit Merah
+8194000,3756.64,12,Leasehold,Private,Bukit Merah
+9.00E+06,3100.03,7,Leasehold,Private,Bukit Merah
+1745000,807.3,5,Leasehold,Private,Bukit Merah
+2320000,1151.75,5,Leasehold,Private,Bukit Merah
+1380000,699.66,6,Leasehold,HDB,Bukit Merah
+2530000,1334.74,19,Leasehold,Private,Bukit Merah
+1600000,1054.87,10,Leasehold,HDB,Bukit Merah
+1690000,958,10,Leasehold,Private,Bukit Merah
+2350000,925.7,10,Freehold,HDB,Bukit Merah
+3050000,1517.72,7,Leasehold,Private,Bukit Merah
+1728000,785.77,5,Leasehold,Private,Bukit Merah
+2150000,1280.92,16,Leasehold,Private,Bukit Merah
+965000,505.91,5,Leasehold,Private,Bukit Merah
+2100000,1388.56,18,Leasehold,HDB,Bukit Merah
+1828000,1162.51,22,Leasehold,Private,Bukit Merah
+2430000,1550.02,12,Leasehold,Private,Bukit Merah
+1960000,1151.75,22,Leasehold,HDB,Bukit Merah
+970000,495.14,5,Leasehold,HDB,Bukit Merah
+970000,505.91,5,Leasehold,Private,Bukit Merah
+1820000,1054.87,12,Leasehold,HDB,Bukit Merah
+2270000,1227.1,19,Leasehold,HDB,Bukit Merah
+1850000,1151.75,22,Leasehold,Private,Bukit Merah
+1020000,495.14,5,Leasehold,Private,Bukit Merah
+2475000,1474.67,10,Leasehold,HDB,Bukit Merah
+3068000,1722.24,12,Leasehold,Private,Bukit Merah
+3050000,1571.54,7,Leasehold,Private,Bukit Merah
+970000,452.09,7,Leasehold,Private,Bukit Merah
+2130000,1227.1,12,Leasehold,Private,Bukit Merah
+2438000,1076.4,5,Leasehold,Private,Bukit Merah
+1468888,807.3,10,Leasehold,HDB,Bukit Merah
+2100000,1205.57,29,Leasehold,HDB,Bukit Merah
+1293000,602.78,10,Freehold,HDB,Bukit Merah
+1900000,1162.51,22,Leasehold,HDB,Bukit Merah
+2600000,1227.1,5,Leasehold,Private,Bukit Merah
+2280000,1280.92,12,Leasehold,Private,Bukit Merah
+3252000,1894.46,12,Leasehold,Private,Bukit Merah
+1715000,731.95,7,Leasehold,Private,Bukit Merah
+3648000,1636.13,13,Freehold,Private,Bukit Merah
+1470000,871.88,22,Leasehold,HDB,Bukit Merah
+1690000,742.72,5,Leasehold,Private,Bukit Merah
+960000,505.91,5,Leasehold,Private,Bukit Merah
+1338000,592.02,10,Freehold,Private,Bukit Merah
+1741100,861.12,5,Leasehold,HDB,Bukit Merah
+2900000,1345.5,8,Freehold,HDB,Bukit Merah
+1920000,1140.98,22,Leasehold,Private,Bukit Merah
+1960000,958,6,Leasehold,Private,Bukit Merah
+1825000,1140.98,22,Leasehold,Private,Bukit Merah
+2580000,1108.69,5,Leasehold,HDB,Bukit Merah
+1645000,893.41,19,Leasehold,HDB,Bukit Merah
+1490000,635.08,5,Leasehold,HDB,Bukit Merah
+2560000,1614.6,10,Leasehold,Private,Bukit Merah
+2500000,1194.8,5,Leasehold,Private,Bukit Merah
+895000,430.56,9,Freehold,HDB,Bukit Merah
+1710000,958,10,Leasehold,Private,Bukit Merah
+1450000,882.65,25,Leasehold,Private,Bukit Merah
+2850000,1237.86,5,Leasehold,Private,Bukit Merah
+1930000,1130.22,12,Leasehold,HDB,Bukit Merah
+1155000,538.2,9,Freehold,Private,Bukit Merah
+1700000,807.3,5,Leasehold,HDB,Bukit Merah
+2675000,1334.74,19,Leasehold,Private,Bukit Merah
+2948000,1345.5,8,Freehold,HDB,Bukit Merah
+1680000,893.41,19,Leasehold,Private,Bukit Merah
+2588000,1420.85,14,Leasehold,Private,Bukit Merah
+938000,452.09,7,Leasehold,Private,Bukit Merah
+3300000,1851.41,10,Leasehold,HDB,Bukit Merah
+1700000,958,12,Leasehold,Private,Bukit Merah
+1950000,1033.34,16,Leasehold,Private,Bukit Merah
+4500000,2185.09,12,Leasehold,Private,Bukit Merah
+4525000,2637.18,12,Leasehold,Private,Bukit Merah
+952000,495.14,5,Leasehold,Private,Bukit Merah
+1700000,731.95,7,Leasehold,Private,Bukit Merah
+2010000,1151.75,12,Leasehold,Private,Bukit Merah
+2670000,1194.8,5,Leasehold,Private,Bukit Merah
+1630000,904.18,16,Leasehold,Private,Bukit Merah
+1200000,484.38,8,Freehold,Private,Bukit Merah
+2900000,1474.67,10,Leasehold,Private,Bukit Merah
+4538000,3218.44,10,Leasehold,Private,Bukit Merah
+2250000,1216.33,6,Leasehold,HDB,Bukit Merah
+1968888,828.83,8,Freehold,HDB,Bukit Merah
+968000,452.09,7,Leasehold,Private,Bukit Merah
+1870000,1151.75,22,Leasehold,Private,Bukit Merah
+2650000,1517.72,12,Leasehold,HDB,Bukit Merah
+1932300,1130.22,12,Leasehold,HDB,Bukit Merah
+2800000,2055.92,10,Leasehold,Private,Bukit Merah
+2850000,1603.84,12,Leasehold,HDB,Bukit Merah
+1760000,1173.28,18,Leasehold,Private,Bukit Merah
+2400000,1334.74,19,Leasehold,Private,Bukit Merah
+1060000,452.09,7,Leasehold,HDB,Bukit Merah
+1480000,731.95,7,Leasehold,Private,Bukit Merah
+2600000,1151.75,5,Leasehold,Private,Bukit Merah
+1740000,1011.82,12,Leasehold,Private,Bukit Merah
+1720000,1076.4,10,Leasehold,HDB,Bukit Merah
+1645000,1044.11,10,Leasehold,Private,Bukit Merah
+2840000,1733,14,Leasehold,Private,Bukit Merah
+2540000,1496.2,12,Leasehold,Private,Bukit Merah
+1328000,871.88,22,Leasehold,Private,Bukit Merah
+2650000,1474.67,10,Leasehold,Private,Bukit Merah
+7056000,2647.94,7,Leasehold,Private,Bukit Merah
+1690000,1087.16,30,Leasehold,HDB,Bukit Merah
+1600000,871.88,19,Leasehold,Private,Bukit Merah
+1685000,990.29,12,Leasehold,HDB,Bukit Merah
+3.00E+06,1646.89,19,Leasehold,Private,Bukit Merah
+2550000,1356.26,12,Leasehold,HDB,Bukit Merah
+1600000,731.95,7,Leasehold,Private,Bukit Merah
+3780000,2594.12,40,Freehold,Private,Bukit Merah
+1730000,882.65,19,Leasehold,Private,Bukit Merah
+935000,495.14,5,Leasehold,Private,Bukit Merah
+6560000,2583.36,7,Leasehold,Private,Bukit Merah
+1720000,1054.87,10,Leasehold,Private,Bukit Merah
+980000,452.09,7,Leasehold,Private,Bukit Merah
+3610000,1636.13,13,Freehold,Private,Bukit Merah
+1600000,861.12,6,Leasehold,Private,Bukit Merah
+2620000,1786.82,14,Leasehold,Private,Bukit Merah
+4100000,3412.19,10,Leasehold,Private,Bukit Merah
+960000,452.09,7,Leasehold,Private,Bukit Merah
+2250000,1528.49,28,Leasehold,HDB,Bukit Merah
+2600000,1194.8,5,Leasehold,Private,Bukit Merah
+3800000,3821.22,10,Leasehold,Private,Bukit Merah
+2935000,2066.69,10,Leasehold,Private,Bukit Merah
+1390000,850.36,25,Leasehold,Private,Bukit Merah
+1700000,731.95,7,Leasehold,Private,Bukit Merah
+1340000,775.01,14,Leasehold,Private,Bukit Merah
+2950000,1517.72,12,Leasehold,Private,Bukit Merah
+2550000,1420.85,14,Leasehold,Private,Bukit Merah
+2350000,1377.79,12,Leasehold,HDB,Bukit Merah
+2380000,1442.38,28,Leasehold,HDB,Bukit Merah
+1900000,1097.93,12,Leasehold,Private,Bukit Merah
+1300000,592.02,10,Freehold,Private,Bukit Merah
+1700000,731.95,7,Leasehold,Private,Bukit Merah
+1495000,807.3,10,Leasehold,Private,Bukit Merah
+1808000,839.59,17,Leasehold,Private,Bukit Merah
+2060000,1259.39,10,Leasehold,Private,Bukit Merah
+1640000,764.24,5,Leasehold,Private,Bukit Merah
+1513500,796.54,6,Leasehold,Private,Bukit Merah
+1700000,904.18,16,Leasehold,Private,Bukit Merah
+1930000,1377.79,22,Leasehold,Private,Bukit Merah
+2380000,1173.28,6,Leasehold,Private,Bukit Merah
+1750000,828.83,8,Freehold,HDB,Bukit Merah
+3150000,1980.58,37,Freehold,Private,Bukit Merah
+2840000,1237.86,5,Leasehold,Private,Bukit Merah
+1.70E+07,6835.14,12,Leasehold,Private,Bukit Merah
+2800000,1733,14,Leasehold,Private,Bukit Merah
+2920000,1399.32,7,Leasehold,Private,Bukit Merah
+1999500,1259.39,10,Leasehold,HDB,Bukit Merah
+1350000,775.01,14,Leasehold,Private,Bukit Merah
+2080000,904.18,5,Leasehold,Private,Bukit Merah
+1778888,1087.16,9,Freehold,HDB,Bukit Merah
+3030000,1711.48,12,Leasehold,Private,Bukit Merah
+1670000,893.41,19,Leasehold,Private,Bukit Merah
+2160000,1097.93,17,Leasehold,Private,Bukit Merah
+1580000,699.66,5,Leasehold,HDB,Bukit Merah
+1800000,904.18,19,Leasehold,HDB,Bukit Merah
+2550000,1313.21,7,Leasehold,HDB,Bukit Merah
+2600000,1399.32,14,Leasehold,Private,Bukit Merah
+2420000,1356.26,38,Freehold,Private,Bukit Merah
+3550000,3336.84,10,Leasehold,Private,Bukit Merah
+2270000,1356.26,19,Leasehold,Private,Bukit Merah
+1680000,871.88,19,Leasehold,Private,Bukit Merah
+4900000,2475.72,12,Leasehold,Private,Bukit Merah
+1060000,484.38,8,Freehold,HDB,Bukit Merah
+2700000,1194.8,5,Leasehold,Private,Bukit Merah
+950000,484.38,5,Leasehold,HDB,Bukit Merah
+1840000,914.94,7,Leasehold,Private,Bukit Merah
+1645000,893.41,19,Leasehold,Private,Bukit Merah
+1610000,904.18,16,Leasehold,Private,Bukit Merah
+2500000,1399.32,14,Leasehold,Private,Bukit Merah
+2538000,1334.74,19,Leasehold,Private,Bukit Merah
+8.00E+06,3390.66,12,Leasehold,Private,Bukit Merah
+2530000,1313.21,17,Leasehold,Private,Bukit Merah
+2980000,2023.63,10,Leasehold,Private,Bukit Merah
+1850000,1162.51,30,Leasehold,HDB,Bukit Merah
+1.00E+07,4725.4,7,Leasehold,Private,Bukit Merah
+3280000,1980.58,37,Freehold,Private,Bukit Merah
+2180000,1237.86,12,Leasehold,Private,Bukit Merah
+4500000,2464.96,12,Leasehold,Private,Bukit Merah
+1400000,785.77,14,Leasehold,Private,Bukit Merah
+980000,505.91,5,Leasehold,HDB,Bukit Merah
+1935000,1140.98,22,Leasehold,HDB,Bukit Merah
+2845000,1733,14,Leasehold,Private,Bukit Merah
+1190777,505.91,5,Leasehold,Private,Bukit Merah
+1580000,893.41,12,Leasehold,Private,Bukit Merah
+2200000,1442.38,28,Leasehold,Private,Bukit Merah
+3100000,1948.28,12,Leasehold,Private,Bukit Merah
+1628000,839.59,19,Leasehold,HDB,Bukit Merah
+1750000,1054.87,12,Leasehold,HDB,Bukit Merah
+1938000,1205.57,30,Leasehold,HDB,Bukit Merah
+3.00E+06,1270.15,13,Freehold,HDB,Bukit Merah
+8400000,3024.68,7,Leasehold,Private,Bukit Merah
+2600000,1388.56,7,Leasehold,Private,Bukit Merah
+2280000,947.23,10,Freehold,HDB,Bukit Merah
+1580000,1044.11,10,Leasehold,Private,Bukit Merah
+1755000,904.18,19,Leasehold,Private,Bukit Merah
+1950000,1291.68,28,Leasehold,HDB,Bukit Merah
+2180000,958,13,Freehold,Private,Bukit Merah
+1748000,1011.82,10,Leasehold,Private,Bukit Merah
+3080000,1291.68,5,Leasehold,Private,Bukit Merah
+1728888,1033.34,14,Leasehold,Private,Bukit Merah
+1820000,807.3,5,Leasehold,Private,Bukit Merah
+1710000,731.95,7,Leasehold,HDB,Bukit Merah
+2870000,1872.94,10,Leasehold,Private,Bukit Merah
+2430000,1087.16,5,Leasehold,Private,Bukit Merah
+1440000,624.31,10,Freehold,HDB,Bukit Merah
+2540000,1614.6,10,Leasehold,Private,Bukit Merah
+2350000,1474.67,10,Leasehold,HDB,Bukit Merah
+1210000,710.42,25,Leasehold,HDB,Bukit Merah
+1430000,807.3,10,Leasehold,Private,Bukit Merah
+870000,430.56,9,Freehold,Private,Bukit Merah
+1431000,785.77,14,Leasehold,Private,Bukit Merah
+1595000,1033.34,25,Freehold,HDB,Bukit Timah
+1480000,710.42,1,Leasehold,HDB,Bukit Timah
+1560000,1011.82,12,Freehold,Private,Bukit Timah
+1300000,1173.28,24,Leasehold,HDB,Bukit Timah
+2320000,990.29,11,Freehold,Private,Bukit Timah
+3315000,1700.71,11,Freehold,Private,Bukit Timah
+1610000,1033.34,25,Freehold,HDB,Bukit Timah
+2080000,968.76,1,Leasehold,Private,Bukit Timah
+1518000,688.9,1,Leasehold,HDB,Bukit Timah
+2700000,1528.49,40,Freehold,Private,Bukit Timah
+2258800,818.06,2,Freehold,Private,Bukit Timah
+4500000,3810.46,40,Leasehold,Private,Bukit Timah
+2480000,1065.64,17,Freehold,Private,Bukit Timah
+1933000,721.19,2,Freehold,Private,Bukit Timah
+1910000,1313.21,27,Leasehold,Private,Bukit Timah
+4.00E+06,1959.05,38,Freehold,Private,Bukit Timah
+4176000,2066.69,11,Freehold,Private,Bukit Timah
+1210000,914.94,43,Leasehold,Private,Bukit Timah
+2335000,1399.32,28,Freehold,HDB,Bukit Timah
+2300000,1614.6,6,Freehold,Private,Bukit Timah
+1228000,624.31,9,Leasehold,Private,Bukit Timah
+2750000,1237.86,13,Freehold,Private,Bukit Timah
+2180000,1528.49,28,Leasehold,Private,Bukit Timah
+1860000,925.7,20,Freehold,Private,Bukit Timah
+1950000,1108.69,17,Leasehold,Private,Bukit Timah
+2830000,1442.38,18,Freehold,HDB,Bukit Timah
+1853650,710.42,2,Freehold,Private,Bukit Timah
+1825000,947.23,26,Freehold,Private,Bukit Timah
+2480000,1700.71,18,Freehold,Private,Bukit Timah
+3100000,1291.68,11,Freehold,Private,Bukit Timah
+2280000,1011.82,0,Leasehold,Private,Bukit Timah
+1560000,925.7,17,Leasehold,Private,Bukit Timah
+2420000,1140.98,1,Leasehold,Private,Bukit Timah
+2080000,1162.51,17,Leasehold,Private,Bukit Timah
+2638050,1227.1,18,Freehold,Private,Bukit Timah
+1370000,925.7,25,Freehold,HDB,Bukit Timah
+1436888,721.19,6,Freehold,Private,Bukit Timah
+2215000,1130.22,17,Leasehold,Private,Bukit Timah
+2250000,968.76,14,Freehold,Private,Bukit Timah
+1993000,688.9,2,Freehold,HDB,Bukit Timah
+2930000,1722.24,25,Freehold,Private,Bukit Timah
+1850000,947.23,17,Freehold,Private,Bukit Timah
+1230000,635.08,9,Leasehold,Private,Bukit Timah
+2060000,1474.67,28,Leasehold,Private,Bukit Timah
+2765888,1453.14,9,Leasehold,HDB,Bukit Timah
+2200000,1173.28,9,Leasehold,Private,Bukit Timah
+7350000,2647.94,8,Freehold,Private,Bukit Timah
+3050000,1420.85,13,Freehold,Private,Bukit Timah
+2775000,1323.97,25,Freehold,Private,Bukit Timah
+1720000,1076.4,9,Leasehold,HDB,Bukit Timah
+3300000,1722.24,9,Leasehold,Private,Bukit Timah
+1675000,839.59,25,Freehold,Private,Bukit Timah
+7200000,2658.71,8,Freehold,Private,Bukit Timah
+3350000,2002.1,42,Freehold,Private,Bukit Timah
+1650000,1227.1,27,Leasehold,Private,Bukit Timah
+1615000,1033.34,25,Freehold,HDB,Bukit Timah
+3260000,1582.31,13,Freehold,Private,Bukit Timah
+3220000,1517.72,25,Freehold,HDB,Bukit Timah
+1750000,1011.82,9,Leasehold,Private,Bukit Timah
+4128000,2152.8,9,Leasehold,Private,Bukit Timah
+1180000,505.91,0,Leasehold,Private,Bukit Timah
+2242000,818.06,2,Freehold,Private,Bukit Timah
+2008888,990.29,13,Freehold,Private,Bukit Timah
+3300000,1711.48,9,Leasehold,Private,Bukit Timah
+5160000,2755.58,12,Freehold,Private,Bukit Timah
+4550000,2443.43,9,Leasehold,Private,Bukit Timah
+1600000,1044.11,25,Freehold,HDB,Bukit Timah
+3730000,3089.27,45,Freehold,Private,Bukit Timah
+1833000,1011.82,9,Leasehold,Private,Bukit Timah
+2888000,1323.97,20,Freehold,Private,Bukit Timah
+3.00E+06,1463.9,26,Freehold,Private,Bukit Timah
+2850000,1474.67,9,Leasehold,Private,Bukit Timah
+1068000,548.96,14,Freehold,Private,Bukit Timah
+4800000,2669.47,44,Freehold,Private,Bukit Timah
+3588800,2088.22,25,Leasehold,Private,Bukit Timah
+2.00E+06,1130.22,11,Freehold,Private,Bukit Timah
+3100000,1356.26,33,Freehold,Private,Bukit Timah
+3150000,1323.97,11,Freehold,Private,Bukit Timah
+1180000,570.49,0,Leasehold,Private,Bukit Timah
+1440000,1065.64,28,Leasehold,Private,Bukit Timah
+4250000,2098.98,11,Freehold,Private,Bukit Timah
+4400000,3735.11,40,Leasehold,Private,Bukit Timah
+3080000,1076.4,2,Freehold,Private,Bukit Timah
+2590000,1270.15,12,Freehold,Private,Bukit Timah
+1068000,613.55,17,Freehold,HDB,Bukit Timah
+3250000,1506.96,15,Freehold,Private,Bukit Timah
+1840350,710.42,2,Freehold,HDB,Bukit Timah
+3390000,1603.84,12,Freehold,Private,Bukit Timah
+3980000,2981.63,45,Freehold,Private,Bukit Timah
+2200000,1205.57,9,Leasehold,Private,Bukit Timah
+1460000,1087.16,28,Leasehold,Private,Bukit Timah
+1948000,914.94,26,Freehold,Private,Bukit Timah
+2480000,1227.1,15,Freehold,Private,Bukit Timah
+1600000,1033.34,25,Freehold,Private,Bukit Timah
+1488000,721.19,1,Leasehold,Private,Bukit Timah
+2300000,1571.54,6,Freehold,Private,Bukit Timah
+2026350,688.9,2,Freehold,Private,Bukit Timah
+4.00E+06,1959.05,38,Freehold,HDB,Bukit Timah
+2042000,710.42,2,Freehold,Private,Bukit Timah
+2600000,1582.31,25,Leasehold,Private,Bukit Timah
+1580000,1248.62,43,Leasehold,Private,Bukit Timah
+4280000,2066.69,15,Freehold,Private,Bukit Timah
+2020000,1410.08,19,Leasehold,Private,Bukit Timah
+2100000,979.52,11,Freehold,Private,Bukit Timah
+2060000,914.94,11,Freehold,Private,Bukit Timah
+1790000,1033.34,9,Leasehold,HDB,Bukit Timah
+2028600,979.52,26,Freehold,Private,Bukit Timah
+2800000,1399.32,9,Leasehold,Private,Bukit Timah
+880000,462.85,6,Freehold,Private,Bukit Timah
+3350000,1711.48,9,Leasehold,Private,Bukit Timah
+2007000,710.42,2,Freehold,Private,Bukit Timah
+3330000,1711.48,9,Leasehold,Private,Bukit Timah
+1460000,775.01,9,Leasehold,HDB,Bukit Timah
+1350000,667.37,1,Leasehold,HDB,Bukit Timah
+1512300,710.42,1,Leasehold,Private,Bukit Timah
+3330000,1463.9,12,Freehold,Private,Bukit Timah
+2320000,1162.51,19,Freehold,Private,Bukit Timah
+1225000,635.08,9,Leasehold,HDB,Bukit Timah
+1138000,570.49,0,Leasehold,HDB,Bukit Timah
+1825000,936.47,26,Freehold,Private,Bukit Timah
+1382000,678.13,1,Leasehold,HDB,Bukit Timah
+1640000,936.47,9,Leasehold,Private,Bukit Timah
+3130000,2368.08,13,Freehold,Private,Bukit Timah
+952000,527.44,10,Freehold,Private,Bukit Timah
+4280000,3735.11,40,Leasehold,Private,Bukit Timah
+2312888,1216.33,9,Leasehold,HDB,Bukit Timah
+2034000,1130.22,17,Leasehold,Private,Bukit Timah
+2280000,1011.82,11,Freehold,Private,Bukit Timah
+2500000,1969.81,43,Leasehold,Private,Bukit Timah
+2600000,1280.92,25,Freehold,Private,Bukit Timah
+2490000,1722.24,6,Freehold,HDB,Bukit Timah
+3069000,2088.22,45,Freehold,Private,Bukit Timah
+1900000,1076.4,9,Leasehold,Private,Bukit Timah
+3950000,3089.27,45,Freehold,Private,Bukit Timah
+2120000,1496.2,28,Freehold,Private,Bukit Timah
+3350000,1819.12,11,Freehold,Private,Bukit Timah
+2395000,990.29,11,Freehold,Private,Bukit Timah
+8.00E+05,441.32,6,Freehold,HDB,Bukit Timah
+1390000,678.13,1,Leasehold,HDB,Bukit Timah
+1700000,1173.28,45,Freehold,HDB,Bukit Timah
+2950000,1313.21,20,Freehold,HDB,Bukit Timah
+2920000,1840.64,25,Leasehold,Private,Bukit Timah
+2620000,1657.66,30,Freehold,Private,Bukit Timah
+1600000,1227.1,24,Leasehold,Private,Bukit Timah
+2300000,1216.33,9,Leasehold,HDB,Bukit Timah
+2100888,1011.82,11,Freehold,Private,Bukit Timah
+2100000,1065.64,26,Freehold,Private,Bukit Timah
+2420000,1227.1,15,Freehold,Private,Bukit Timah
+2235000,1011.82,29,Freehold,Private,Bukit Timah
+1520000,710.42,1,Leasehold,HDB,Bukit Timah
+3040000,1410.08,13,Freehold,Private,Bukit Timah
+3550000,1743.77,15,Freehold,Private,Bukit Timah
+2330000,1280.92,26,Freehold,Private,Bukit Timah
+3250000,1689.95,9,Leasehold,Private,Bukit Timah
+3600000,1991.34,18,Freehold,HDB,Bukit Timah
+1984000,688.9,2,Freehold,HDB,Bukit Timah
+1935000,721.19,2,Freehold,Private,Bukit Timah
+1210000,635.08,9,Leasehold,Private,Bukit Timah
+2680000,1420.85,9,Leasehold,Private,Bukit Timah
+1728888,1022.58,12,Freehold,Private,Bukit Timah
+2730000,1410.08,25,Freehold,Private,Bukit Timah
+1830000,1076.4,9,Leasehold,Private,Bukit Timah
+6200000,2787.88,11,Freehold,Private,Bukit Timah
+1698888,936.47,25,Leasehold,Private,Bukit Timah
+3050000,1700.71,11,Freehold,Private,Bukit Timah
+1740000,818.06,0,Leasehold,HDB,Bukit Timah
+1690000,839.59,0,Leasehold,HDB,Bukit Timah
+2650000,1700.71,18,Freehold,Private,Bukit Timah
+2900000,1410.08,26,Freehold,Private,Bukit Timah
+2880000,1044.11,8,Freehold,Private,Bukit Timah
+1888000,1356.26,28,Freehold,Private,Bukit Timah
+1308000,635.08,9,Leasehold,Private,Bukit Timah
+1338000,635.08,9,Leasehold,Private,Bukit Timah
+2200000,1614.6,11,Freehold,Private,Bukit Timah
+2043000,721.19,2,Freehold,Private,Bukit Timah
+1600000,861.12,17,Leasehold,HDB,Bukit Timah
+1800000,1270.15,27,Leasehold,Private,Bukit Timah
+1133500,505.91,1,Leasehold,HDB,Bukit Timah
+1930000,1140.98,17,Leasehold,HDB,Bukit Timah
+3500000,1883.7,29,Freehold,Private,Bukit Timah
+2830000,1399.32,25,Freehold,Private,Bukit Timah
+2250000,968.76,14,Freehold,Private,Bukit Timah
+2480000,1216.33,0,Leasehold,Private,Bukit Timah
+1980000,1291.68,27,Leasehold,HDB,Bukit Timah
+2950000,1937.52,10,Freehold,Private,Bukit Timah
+1720000,893.41,26,Freehold,Private,Bukit Timah
+2975000,1539.25,9,Leasehold,Private,Bukit Timah
+2200000,1367.03,42,Freehold,Private,Bukit Timah
+2420000,1044.11,1,Leasehold,HDB,Bukit Timah
+2280000,1420.85,25,Freehold,Private,Bukit Timah
+1878000,721.19,2,Freehold,Private,Bukit Timah
+1660000,753.48,0,Leasehold,Private,Bukit Timah
+1185000,516.67,1,Leasehold,Private,Bukit Timah
+1230000,656.6,6,Freehold,HDB,Bukit Timah
+1675000,979.52,25,Leasehold,Private,Bukit Timah
+1920000,1227.1,27,Leasehold,HDB,Bukit Timah
+2090000,1022.58,20,Freehold,HDB,Bukit Timah
+2130000,979.52,11,Freehold,Private,Bukit Timah
+2790000,1399.32,9,Leasehold,Private,Bukit Timah
+1230000,635.08,9,Leasehold,HDB,Bukit Timah
+3868000,1786.82,26,Freehold,Private,Bukit Timah
+1855000,710.42,2,Freehold,Private,Bukit Timah
+3800000,2604.89,14,Freehold,Private,Bukit Timah
+1738000,947.23,15,Freehold,Private,Bukit Timah
+4400000,3670.52,18,Freehold,Private,Bukit Timah
+2450000,1259.39,9,Leasehold,Private,Bukit Timah
+3700000,1668.42,11,Freehold,Private,Bukit Timah
+3260000,1722.24,11,Freehold,Private,Bukit Timah
+6050000,2744.82,33,Freehold,Private,Bukit Timah
+3278000,1872.94,9,Leasehold,Private,Bukit Timah
+1750000,1044.11,9,Leasehold,Private,Bukit Timah
+1195000,645.84,9,Leasehold,HDB,Bukit Timah
+1780000,882.65,13,Freehold,Private,Bukit Timah
+1555000,1054.87,25,Freehold,Private,Bukit Timah
+2400000,1033.34,18,Freehold,Private,Bukit Timah
+1300000,613.55,0,Leasehold,Private,Bukit Timah
+2400000,1367.03,42,Freehold,HDB,Bukit Timah
+5100000,2411.14,18,Freehold,Private,Bukit Timah
+1700000,947.23,28,Freehold,Private,Bukit Timah
+2938888,2045.16,30,Freehold,Private,Bukit Timah
+2380000,1345.5,17,Leasehold,HDB,Bukit Timah
+1380000,785.77,6,Freehold,Private,Bukit Timah
+2300000,1194.8,9,Leasehold,Private,Bukit Timah
+1922000,721.19,2,Freehold,Private,Bukit Timah
+1690000,1130.22,25,Freehold,HDB,Bukit Timah
+2230000,1410.08,25,Freehold,Private,Bukit Timah
+1350000,678.13,1,Leasehold,Private,Bukit Timah
+2300000,1216.33,9,Leasehold,Private,Bukit Timah
+3050000,1539.25,9,Leasehold,HDB,Bukit Timah
+3500000,3132.32,12,Freehold,Private,Bukit Timah
+2100000,1377.79,12,Freehold,Private,Bukit Timah
+3450000,1550.02,11,Freehold,Private,Bukit Timah
+2350000,1280.92,9,Leasehold,Private,Bukit Timah
+1500000,871.88,17,Leasehold,Private,Bukit Timah
+4670000,2927.81,18,Freehold,Private,Bukit Timah
+2230000,1345.5,25,Leasehold,Private,Bukit Timah
+1758000,925.7,6,Freehold,Private,Bukit Timah
+1688000,1205.57,25,Freehold,HDB,Bukit Timah
+1470000,785.77,9,Leasehold,Private,Bukit Timah
+7500000,5134.43,40,Freehold,Private,Bukit Timah
+3550000,1883.7,11,Freehold,Private,Bukit Timah
+1910000,990.29,18,Freehold,HDB,Bukit Timah
+2880000,1334.74,25,Freehold,HDB,Bukit Timah
+2016000,721.19,2,Freehold,HDB,Bukit Timah
+1.10E+07,7082.71,11,Freehold,Private,Bukit Timah
+2850000,1356.26,14,Freehold,Private,Bukit Timah
+4950000,2669.47,41,Freehold,Private,Bukit Timah
+5.00E+06,2755.58,12,Freehold,Private,Bukit Timah
+2900000,1431.61,25,Freehold,HDB,Bukit Timah
+4150000,2518.78,15,Freehold,Private,Bukit Timah
+3830000,1959.05,38,Freehold,Private,Bukit Timah
+2308000,990.29,11,Freehold,HDB,Bukit Timah
+1380000,1033.34,24,Leasehold,Private,Bukit Timah
+3380000,1496.2,18,Freehold,Private,Bukit Timah
+2780000,1377.79,26,Freehold,Private,Bukit Timah
+2320000,1883.7,43,Leasehold,Private,Bukit Timah
+2600000,1356.26,20,Freehold,Private,Bukit Timah
+2330000,1205.57,9,Leasehold,HDB,Bukit Timah
+4300000,3756.64,40,Leasehold,Private,Bukit Timah
+2.00E+06,1119.46,6,Freehold,Private,Bukit Timah
+2198000,818.06,2,Freehold,Private,Bukit Timah
+858000,462.85,6,Freehold,HDB,Bukit Timah
+1975000,1108.69,15,Freehold,Private,Bukit Timah
+1670000,871.88,0,Leasehold,Private,Bukit Timah
+1660000,1270.15,27,Freehold,Private,Bukit Timah
+3400000,1754.53,9,Leasehold,Private,Bukit Timah
+1100000,516.67,1,Leasehold,Private,Bukit Timah
+2250000,1367.03,42,Freehold,Private,Bukit Timah
+2950000,1367.03,25,Freehold,Private,Bukit Timah
+1526000,785.77,9,Leasehold,Private,Bukit Timah
+2020000,1097.93,11,Freehold,Private,Bukit Timah
+3880000,1883.7,18,Freehold,HDB,Bukit Timah
+2400000,1356.26,9,Leasehold,Private,Bukit Timah
+1850000,1001.05,6,Freehold,HDB,Bukit Timah
+1500000,1044.11,24,Freehold,Private,Bukit Timah
+3500000,1474.67,18,Freehold,Private,Bukit Timah
+3170000,1603.84,9,Leasehold,Private,Bukit Timah
+1750000,882.65,13,Freehold,Private,Bukit Timah
+1350000,721.19,6,Freehold,HDB,Bukit Timah
+2380000,1539.25,19,Leasehold,HDB,Bukit Timah
+2258000,990.29,11,Freehold,HDB,Bukit Timah
+2186000,775.01,2,Freehold,Private,Bukit Timah
+1250000,925.7,27,Leasehold,Private,Bukit Timah
+1500000,1248.62,24,Leasehold,Private,Bukit Timah
+1200000,656.6,9,Leasehold,Private,Bukit Timah
+1867900,710.42,2,Freehold,Private,Bukit Timah
+1650000,1151.75,19,Leasehold,Private,Bukit Timah
+2960000,1582.31,14,Freehold,Private,Bukit Timah
+2415000,1044.11,1,Leasehold,Private,Bukit Timah
+1420000,710.42,1,Leasehold,Private,Bukit Timah
+1780000,1033.34,38,Freehold,Private,Bukit Timah
+7888888,4251.78,9,Leasehold,Private,Bukit Timah
+2385000,1108.69,10,Freehold,HDB,Bukit Timah
+3568000,1657.66,11,Freehold,Private,Bukit Timah
+2480000,1044.11,1,Leasehold,Private,Bukit Timah
+2.00E+06,1119.46,26,Freehold,Private,Bukit Timah
+1820000,1237.86,25,Freehold,Private,Bukit Timah
+1500000,936.47,28,Freehold,HDB,Bukit Timah
+1240000,635.08,9,Leasehold,Private,Bukit Timah
+1608000,1022.58,25,Freehold,Private,Bukit Timah
+2300000,1076.4,18,Freehold,Private,Bukit Timah
+1800000,1227.1,27,Leasehold,Private,Bukit Timah
+3200000,1485.43,12,Freehold,Private,Bukit Timah
+4.00E+06,2012.87,9,Leasehold,Private,Bukit Timah
+2700000,1679.18,30,Freehold,Private,Bukit Timah
+2050000,990.29,13,Freehold,Private,Bukit Timah
+1823000,635.08,2,Freehold,Private,Bukit Timah
+2150000,1205.57,9,Leasehold,HDB,Bukit Timah
+3250000,1700.71,11,Freehold,Private,Bukit Timah
+1560000,861.12,0,Leasehold,HDB,Bukit Timah
+1933000,958,19,Freehold,Private,Bukit Timah
+2230000,1044.11,11,Freehold,Private,Bukit Timah
+3200000,1614.6,9,Leasehold,Private,Bukit Timah
+1580000,796.54,27,Freehold,Private,Bukit Timah
+2100000,1216.33,9,Leasehold,HDB,Bukit Timah
+2350000,1205.57,9,Leasehold,HDB,Bukit Timah
+1940000,1011.82,9,Leasehold,Private,Bukit Timah
+1500000,1087.16,28,Leasehold,Private,Bukit Timah
+1810000,1001.05,10,Freehold,Private,Bukit Timah
+4958000,1991.34,11,Freehold,Private,Bukit Timah
+1570000,947.23,28,Freehold,Private,Bukit Timah
+2030000,1463.9,19,Leasehold,Private,Bukit Timah
+1460000,742.72,1,Leasehold,HDB,Bukit Timah
+2880000,1356.26,20,Freehold,HDB,Bukit Timah
+2530000,1399.32,25,Freehold,HDB,Bukit Timah
+1320000,635.08,9,Leasehold,HDB,Bukit Timah
+1950000,1130.22,17,Leasehold,HDB,Bukit Timah
+3810000,1980.58,9,Leasehold,Private,Bukit Timah
+1935000,1323.97,28,Freehold,Private,Bukit Timah
+2288000,1216.33,9,Leasehold,Private,Bukit Timah
+3125000,1496.2,18,Freehold,Private,Bukit Timah
+1320000,882.65,25,Freehold,Private,Bukit Timah
+1400000,710.42,1,Leasehold,Private,Bukit Timah
+1425000,742.72,1,Leasehold,HDB,Bukit Timah
+1580000,1022.58,25,Freehold,Private,Bukit Timah
+1415200,710.42,1,Leasehold,HDB,Bukit Timah
+1530000,1044.11,25,Freehold,Private,Bukit Timah
+3638000,1582.31,18,Freehold,Private,Bukit Timah
+3160000,1517.72,23,Freehold,Private,Bukit Timah
+1200000,570.49,13,Freehold,Private,Bukit Timah
+2336350,828.83,2,Freehold,Private,Bukit Timah
+3350000,1743.77,42,Freehold,Private,Bukit Timah
+2013350,721.19,2,Freehold,Private,Bukit Timah
+3600000,2217.38,38,Freehold,Private,Bukit Timah
+1931350,710.42,2,Freehold,Private,Bukit Timah
+1200000,635.08,9,Leasehold,HDB,Bukit Timah
+1830000,947.23,20,Freehold,HDB,Bukit Timah
+1636000,1227.1,27,Leasehold,Private,Bukit Timah
+1670000,1173.28,24,Leasehold,HDB,Bukit Timah
+3350000,2325.02,45,Freehold,Private,Bukit Timah
+9500000,3745.87,8,Freehold,Private,Bukit Timah
+4080000,1829.88,11,Freehold,Private,Bukit Timah
+1730000,1054.87,25,Freehold,Private,Bukit Timah
+2868000,1356.26,14,Freehold,Private,Bukit Timah
+1730000,947.23,15,Freehold,Private,Bukit Timah
+2800000,1313.21,26,Freehold,Private,Bukit Timah
+1735000,818.06,0,Leasehold,Private,Bukit Timah
+2888000,1603.84,9,Leasehold,Private,Bukit Timah
+2280000,1054.87,18,Freehold,Private,Bukit Timah
+2368000,828.83,2,Freehold,Private,Bukit Timah
+3218000,1786.82,14,Freehold,Private,Bukit Timah
+1800000,947.23,28,Leasehold,Private,Bukit Timah
+2168000,968.76,20,Freehold,Private,Bukit Timah
+1688000,1054.87,9,Leasehold,Private,Bukit Timah
+2500000,1377.79,25,Leasehold,Private,Bukit Timah
+2650000,1550.02,9,Leasehold,Private,Bukit Timah
+3550000,1819.12,11,Freehold,Private,Bukit Timah
+2280000,1130.22,0,Leasehold,Private,Bukit Timah
+1800000,1119.46,9,Leasehold,Private,Bukit Timah
+1468000,742.72,6,Freehold,Private,Bukit Timah
+1800000,882.65,13,Freehold,HDB,Bukit Timah
+3320000,2098.98,30,Freehold,Private,Bukit Timah
+2230000,1173.28,9,Leasehold,Private,Bukit Timah
+2475000,1431.61,40,Freehold,HDB,Bukit Timah
+2165000,1399.32,28,Freehold,Private,Bukit Timah
+3625000,1980.58,9,Leasehold,Private,Bukit Timah
+3530000,1582.31,18,Freehold,Private,Bukit Timah
+2028000,1140.98,17,Leasehold,Private,Bukit Timah
+5555000,3121.56,39,Freehold,Private,Bukit Timah
+1880000,1377.79,28,Leasehold,Private,Bukit Timah
+2180000,1044.11,11,Freehold,Private,Bukit Timah
+3200000,2238.91,45,Freehold,Private,Bukit Timah
+2660000,1291.68,18,Freehold,Private,Bukit Timah
+1580000,914.94,9,Leasehold,HDB,Bukit Timah
+2050000,936.47,11,Freehold,Private,Bukit Timah
+2450000,1797.59,43,Leasehold,HDB,Bukit Timah
+2300000,1173.28,9,Leasehold,HDB,Bukit Timah
+1120000,602.78,9,Leasehold,Private,Bukit Timah
+3380000,1679.18,9,Leasehold,Private,Bukit Timah
+3480000,1399.32,18,Freehold,Private,Bukit Timah
+3300000,1506.96,17,Freehold,Private,Bukit Timah
+3170000,1883.7,25,Leasehold,Private,Bukit Timah
+2009000,979.52,20,Freehold,HDB,Bukit Timah
+1920000,1410.08,19,Leasehold,Private,Bukit Timah
+1540000,979.52,28,Leasehold,Private,Bukit Timah
+2015000,1528.49,28,Leasehold,Private,Bukit Timah
+2150000,1711.48,43,Leasehold,Private,Bukit Timah
+3050000,1829.88,31,Freehold,Private,Bukit Timah
+2230000,1334.74,45,Freehold,HDB,Bukit Timah
+2280000,1216.33,9,Leasehold,Private,Bukit Timah
+2490000,1280.92,9,Leasehold,Private,Bukit Timah
+7260000,4714.63,13,Freehold,Private,Bukit Timah
+1934000,721.19,2,Freehold,Private,Bukit Timah
+3.00E+06,1291.68,1,Leasehold,Private,Bukit Timah
+1960000,1022.58,0,Leasehold,Private,Bukit Timah
+1939000,721.19,2,Freehold,HDB,Bukit Timah
+1900000,1593.07,24,Leasehold,Private,Bukit Timah
+2050000,990.29,13,Freehold,Private,Bukit Timah
+3450000,1625.36,18,Freehold,Private,Bukit Timah
+1160000,645.84,9,Leasehold,Private,Bukit Timah
+2550000,1743.77,12,Freehold,HDB,Bukit Timah
+3600000,1915.99,38,Freehold,Private,Bukit Timah
+3385000,1582.31,18,Freehold,Private,Bukit Timah
+2850000,1399.32,9,Leasehold,HDB,Bukit Timah
+1760000,1420.85,43,Leasehold,Private,Bukit Timah
+2950000,1356.26,33,Freehold,Private,Bukit Timah
+2900000,1711.48,25,Leasehold,Private,Bukit Timah
+3525000,1420.85,16,Freehold,HDB,Bukit Timah
+3960000,1894.46,11,Freehold,Private,Bukit Timah
+1846050,710.42,2,Freehold,HDB,Bukit Timah
+3700000,2109.74,31,Freehold,HDB,Bukit Timah
+1450000,1044.11,25,Freehold,Private,Bukit Timah
+3380000,1399.32,18,Freehold,Private,Bukit Timah
+2788000,1539.25,9,Leasehold,HDB,Bukit Timah
+2280000,1420.85,25,Freehold,HDB,Bukit Timah
+1100000,656.6,9,Leasehold,Private,Bukit Timah
+2080000,1496.2,28,Freehold,Private,Bukit Timah
+2775000,1227.1,13,Leasehold,Private,Others
+2300000,1130.22,13,Leasehold,HDB,Others
+1770000,731.95,13,Leasehold,Private,Others
+6100000,1980.58,13,Leasehold,Private,Others
+2810000,1603.84,10,Leasehold,Private,Others
+6900000,2368.08,13,Leasehold,Private,Others
+2880000,1571.54,10,Leasehold,Private,Others
+3780000,1636.13,13,Leasehold,Private,Others
+2400000,1054.87,13,Leasehold,HDB,Others
+3180000,1614.6,10,Leasehold,Private,Others
+1720000,731.95,13,Leasehold,Private,Others
+1500000,742.72,13,Leasehold,Private,Others
+3280000,1625.36,10,Leasehold,HDB,Others
+2240000,1130.22,13,Leasehold,HDB,Others
+1540000,731.95,13,Leasehold,Private,Others
+3100000,1571.54,10,Leasehold,Private,Others
+5250000,2680.24,10,Leasehold,Private,Others
+5230000,1980.58,13,Leasehold,Private,Others
+1288800,979.52,25,Leasehold,Private,Geylang
+1200000,699.66,6,Leasehold,Private,Geylang
+2488000,1442.38,6,Leasehold,Private,Geylang
+2328000,1280.92,10,Leasehold,Private,Geylang
+1125000,624.31,6,Leasehold,HDB,Geylang
+1800000,1022.58,13,Freehold,HDB,Geylang
+1260000,624.31,10,Leasehold,Private,Geylang
+2480000,1313.21,19,Freehold,HDB,Geylang
+815000,484.38,6,Leasehold,HDB,Geylang
+1388000,785.77,6,Leasehold,Private,Geylang
+1290000,753.48,10,Leasehold,Private,Geylang
+1183000,710.42,6,Leasehold,Private,Geylang
+1408000,850.36,5,Leasehold,HDB,Geylang
+1110000,742.72,29,Freehold,Private,Geylang
+1610000,958,6,Leasehold,HDB,Geylang
+1880000,1151.75,8,Freehold,HDB,Geylang
+1444608,1216.33,22,Leasehold,Private,Geylang
+2180000,1313.21,13,Leasehold,HDB,Geylang
+3280000,1829.88,13,Leasehold,Private,Geylang
+1168000,667.37,6,Leasehold,HDB,Geylang
+1140000,667.37,6,Leasehold,Private,Geylang
+7.00E+05,462.85,6,Leasehold,Private,Geylang
+1880000,1162.51,8,Freehold,Private,Geylang
+2160000,1130.22,10,Leasehold,HDB,Geylang
+1260000,850.36,19,Leasehold,Private,Geylang
+1405000,828.83,6,Leasehold,Private,Geylang
+790000,441.32,6,Leasehold,HDB,Geylang
+1220000,699.66,5,Leasehold,HDB,Geylang
+1630000,1237.86,25,Leasehold,HDB,Geylang
+980000,624.31,8,Freehold,Private,Geylang
+1700000,1194.8,19,Leasehold,Private,Geylang
+1310000,785.77,6,Leasehold,HDB,Geylang
+928000,645.84,17,Freehold,Private,Geylang
+1876000,1022.58,6,Leasehold,Private,Geylang
+1200000,742.72,5,Leasehold,Private,Geylang
+1192000,785.77,10,Leasehold,Private,Geylang
+1128800,753.48,17,Freehold,Private,Geylang
+888000,613.55,6,Leasehold,Private,Geylang
+2210000,1313.21,13,Leasehold,HDB,Geylang
+805000,441.32,6,Leasehold,HDB,Geylang
+1640000,1227.1,22,Leasehold,HDB,Geylang
+1660000,1216.33,19,Leasehold,Private,Geylang
+1840000,1033.34,6,Leasehold,Private,Geylang
+2400000,1388.56,10,Leasehold,HDB,Geylang
+1420000,785.77,6,Leasehold,Private,Geylang
+1450000,1367.03,22,Leasehold,Private,Geylang
+2910000,1571.54,10,Leasehold,Private,Geylang
+2450000,1313.21,19,Freehold,Private,Geylang
+1150000,667.37,6,Leasehold,HDB,Geylang
+3200000,1894.46,13,Leasehold,Private,Geylang
+1418888,850.36,5,Leasehold,HDB,Geylang
+1213888,667.37,6,Leasehold,HDB,Geylang
+775000,409.03,6,Leasehold,HDB,Geylang
+870000,484.38,10,Leasehold,HDB,Geylang
+3140000,1829.88,13,Leasehold,Private,Geylang
+1640000,1237.86,19,Leasehold,HDB,Geylang
+1150000,667.37,6,Leasehold,HDB,Geylang
+1198000,667.37,6,Leasehold,Private,Geylang
+1148000,624.31,10,Leasehold,Private,Geylang
+2230000,1313.21,13,Leasehold,Private,Geylang
+1468000,947.23,17,Freehold,Private,Geylang
+1210000,699.66,6,Leasehold,HDB,Geylang
+1130000,667.37,6,Leasehold,Private,Geylang
+2330000,1313.21,19,Freehold,HDB,Geylang
+1760000,1022.58,13,Leasehold,Private,Geylang
+850000,484.38,10,Leasehold,Private,Geylang
+3200000,1829.88,13,Leasehold,Private,Geylang
+2600000,1313.21,19,Freehold,HDB,Geylang
+1940000,1173.28,6,Leasehold,HDB,Geylang
+1820000,1528.49,25,Leasehold,Private,Geylang
+2315000,1184.04,10,Leasehold,Private,Geylang
+798000,484.38,6,Leasehold,Private,Geylang
+830000,581.26,10,Leasehold,HDB,Geylang
+2030000,1162.51,8,Freehold,HDB,Geylang
+2145000,1140.98,10,Leasehold,HDB,Geylang
+1790000,1001.05,6,Leasehold,Private,Geylang
+2460000,1291.68,13,Leasehold,Private,Geylang
+808000,484.38,6,Leasehold,Private,Geylang
+1090000,699.66,29,Freehold,Private,Geylang
+1770000,1237.86,19,Leasehold,Private,Geylang
+2020000,1280.92,10,Leasehold,Private,Geylang
+1838000,1194.8,18,Freehold,Private,Geylang
+1245000,764.24,5,Leasehold,HDB,Geylang
+1468000,861.12,5,Leasehold,Private,Geylang
+1785888,1302.44,19,Leasehold,Private,Geylang
+1668000,882.65,10,Leasehold,Private,Geylang
+1725000,958,6,Leasehold,Private,Geylang
+790000,441.32,6,Leasehold,Private,Geylang
+1466000,1248.62,25,Leasehold,HDB,Geylang
+1200000,764.24,5,Leasehold,HDB,Geylang
+1950000,1323.97,19,Leasehold,HDB,Geylang
+1525000,818.06,6,Leasehold,Private,Geylang
+827000,484.38,6,Leasehold,Private,Geylang
+1738000,1022.58,13,Leasehold,HDB,Geylang
+2050000,1130.22,13,Freehold,Private,Geylang
+1818000,958,6,Leasehold,HDB,Geylang
+1510000,1173.28,22,Leasehold,HDB,Geylang
+1140000,624.31,6,Leasehold,Private,Geylang
+820000,441.32,6,Leasehold,HDB,Geylang
+2250000,1151.75,10,Leasehold,Private,Geylang
+1800000,1044.11,13,Leasehold,Private,Geylang
+1045000,613.55,8,Freehold,HDB,Geylang
+2500000,1184.04,10,Leasehold,Private,Geylang
+788888,441.32,8,Freehold,HDB,Geylang
+2160000,1313.21,13,Leasehold,Private,Geylang
+1518000,1044.11,19,Leasehold,HDB,Geylang
+1230000,699.66,6,Leasehold,Private,Geylang
+1320000,796.54,8,Freehold,HDB,Geylang
+2200000,1130.22,10,Leasehold,HDB,Geylang
+1168000,667.37,6,Leasehold,Private,Geylang
+1700000,1194.8,19,Leasehold,Private,Geylang
+1680000,1022.58,13,Leasehold,Private,Geylang
+865000,462.85,8,Freehold,Private,Geylang
+1580000,947.23,5,Leasehold,HDB,Geylang
+1220000,624.31,10,Leasehold,Private,Geylang
+2085000,1323.97,6,Leasehold,HDB,Geylang
+2050000,1323.97,6,Leasehold,Private,Geylang
+1280000,979.52,25,Leasehold,HDB,Geylang
+1.00E+06,678.13,5,Leasehold,HDB,Geylang
+1700000,1022.58,13,Leasehold,Private,Geylang
+830000,484.38,10,Leasehold,HDB,Geylang
+2030000,1345.5,19,Leasehold,HDB,Geylang
+1428000,861.12,5,Leasehold,HDB,Geylang
+1770000,1022.58,13,Leasehold,Private,Geylang
+1510000,1216.33,22,Leasehold,HDB,Geylang
+1832000,1033.34,6,Leasehold,Private,Geylang
+2500000,1291.68,13,Leasehold,Private,Geylang
+1425000,796.54,8,Freehold,Private,Geylang
+1680000,1205.57,22,Leasehold,HDB,Geylang
+1400000,958,6,Leasehold,HDB,Geylang
+1200000,624.31,6,Leasehold,Private,Geylang
+2300000,1313.21,13,Leasehold,Private,Geylang
+988000,570.49,5,Leasehold,Private,Geylang
+1970000,1033.34,6,Leasehold,HDB,Geylang
+1080000,624.31,6,Leasehold,HDB,Geylang
+2380000,1291.68,13,Leasehold,HDB,Geylang
+2200000,1926.76,18,Freehold,Private,Geylang
+2486000,1280.92,10,Leasehold,Private,Geylang
+2140000,1259.39,10,Leasehold,Private,Geylang
+1550000,947.23,5,Leasehold,HDB,Geylang
+845000,462.85,8,Freehold,HDB,Geylang
+1330000,764.24,5,Leasehold,Private,Geylang
+818000,473.62,8,Freehold,HDB,Geylang
+3500000,1829.88,13,Leasehold,Private,Geylang
+2630000,1463.9,19,Freehold,Private,Geylang
+1140000,699.66,5,Leasehold,Private,Geylang
+805000,441.32,6,Leasehold,HDB,Geylang
+2930000,1517.72,14,Freehold,Private,Kallang
+1010000,559.73,16,Leasehold,HDB,Kallang
+845000,441.32,7,Leasehold,HDB,Kallang
+1195000,699.66,7,Leasehold,HDB,Kallang
+1680000,925.7,16,Leasehold,Private,Kallang
+1958000,1280.92,26,Leasehold,Private,Kallang
+3.00E+06,1894.46,26,Leasehold,Private,Kallang
+2280000,1356.26,19,Leasehold,Private,Kallang
+3280000,2055.92,26,Leasehold,Private,Kallang
+1260000,731.95,19,Leasehold,Private,Kallang
+2650000,1646.89,26,Leasehold,Private,Kallang
+4180000,2411.14,31,Freehold,Private,Kallang
+888000,667.37,11,Freehold,HDB,Kallang
+1970000,1227.1,19,Leasehold,Private,Kallang
+1280000,678.13,16,Leasehold,HDB,Kallang
+1960000,1227.1,19,Leasehold,HDB,Kallang
+1840000,1270.15,18,Leasehold,Private,Kallang
+2050000,1216.33,19,Leasehold,Private,Kallang
+2060000,1463.9,27,Leasehold,Private,Kallang
+1240000,699.66,7,Leasehold,HDB,Kallang
+1390000,925.7,26,Leasehold,Private,Kallang
+1630000,936.47,7,Leasehold,Private,Kallang
+1590000,1173.28,20,Leasehold,Private,Kallang
+1636888,990.29,9,Freehold,HDB,Kallang
+1228000,678.13,16,Leasehold,Private,Kallang
+815000,441.32,7,Leasehold,HDB,Kallang
+1570000,936.47,7,Leasehold,HDB,Kallang
+2490000,1851.41,26,Leasehold,Private,Kallang
+865000,419.8,4,Leasehold,HDB,Kallang
+1720000,828.83,4,Leasehold,Private,Kallang
+1930000,1334.74,26,Leasehold,Private,Kallang
+1300000,775.01,19,Leasehold,Private,Kallang
+2050000,1216.33,19,Leasehold,Private,Kallang
+1200000,678.13,16,Leasehold,Private,Kallang
+1200000,699.66,7,Leasehold,HDB,Kallang
+1180000,592.02,16,Leasehold,HDB,Kallang
+1915000,1259.39,18,Leasehold,Private,Kallang
+1480000,871.88,16,Leasehold,Private,Kallang
+2780000,1184.04,7,Freehold,Private,Kallang
+1400000,721.19,16,Leasehold,Private,Kallang
+2900000,1550.02,15,Freehold,Private,Kallang
+4150000,2335.79,26,Leasehold,Private,Kallang
+3100000,2055.92,26,Leasehold,Private,Kallang
+1640000,861.12,15,Freehold,HDB,Kallang
+1540000,828.83,4,Leasehold,Private,Kallang
+1580000,871.88,16,Leasehold,Private,Kallang
+3780000,2142.04,31,Freehold,Private,Kallang
+9.00E+06,6113.95,26,Leasehold,Private,Kallang
+2818000,1259.39,7,Freehold,Private,Kallang
+3280000,1894.46,26,Leasehold,Private,Kallang
+1950000,1216.33,19,Leasehold,HDB,Kallang
+1180000,570.49,4,Leasehold,Private,Kallang
+1950000,1270.15,18,Leasehold,Private,Kallang
+1730000,861.12,15,Freehold,Private,Kallang
+840000,419.8,4,Leasehold,Private,Kallang
+1448888,721.19,4,Leasehold,HDB,Kallang
+1640000,925.7,16,Leasehold,Private,Kallang
+2450000,1646.89,26,Leasehold,Private,Kallang
+5100000,2626.42,26,Leasehold,Private,Kallang
+1175000,699.66,7,Leasehold,HDB,Kallang
+1800000,1022.58,19,Leasehold,HDB,Kallang
+6710000,3035.45,23,Leasehold,Private,Kallang
+2290000,1205.57,14,Freehold,Private,Kallang
+2450000,1291.68,4,Leasehold,HDB,Kallang
+3900000,1883.7,15,Leasehold,Private,Kallang
+2215000,1227.1,19,Leasehold,Private,Kallang
+1080000,419.8,7,Freehold,Private,Kallang
+3550000,1894.46,26,Leasehold,Private,Kallang
+8.00E+05,441.32,7,Leasehold,HDB,Kallang
+1680000,893.41,16,Leasehold,HDB,Kallang
+1490000,1011.82,26,Leasehold,Private,Kallang
+1510000,1044.11,7,Leasehold,Private,Kallang
+1850000,1270.15,18,Leasehold,Private,Kallang
+1535000,1011.82,26,Leasehold,Private,Kallang
+2180000,1377.79,26,Leasehold,Private,Kallang
+3250000,2055.92,26,Leasehold,Private,Kallang
+1502000,990.29,26,Leasehold,Private,Kallang
+2580000,1291.68,15,Freehold,Private,Kallang
+2650000,1442.38,30,Freehold,Private,Kallang
+840000,419.8,4,Leasehold,HDB,Kallang
+1700000,893.41,16,Leasehold,Private,Kallang
+4200000,2411.14,31,Freehold,Private,Kallang
+4680000,2400.37,31,Freehold,Private,Kallang
+5150000,2744.82,26,Leasehold,Private,Kallang
+888000,419.8,4,Leasehold,Private,Kallang
+1600000,839.59,15,Freehold,Private,Kallang
+1510000,947.23,16,Leasehold,Private,Kallang
+2260000,1205.57,15,Freehold,HDB,Kallang
+1290000,678.13,16,Leasehold,Private,Kallang
+1585000,828.83,4,Leasehold,Private,Kallang
+1338000,699.66,7,Leasehold,HDB,Kallang
+3620000,2217.38,26,Leasehold,Private,Kallang
+2.00E+06,1216.33,7,Leasehold,Private,Kallang
+2510000,1194.8,14,Freehold,Private,Kallang
+1760000,1259.39,18,Leasehold,HDB,Kallang
+3365000,1894.46,26,Leasehold,Private,Kallang
+4910000,2626.42,26,Leasehold,Private,Kallang
+1930000,1399.32,26,Leasehold,Private,Kallang
+1290000,807.3,7,Leasehold,Private,Kallang
+4030000,2142.04,31,Freehold,Private,Kallang
+1050000,559.73,16,Leasehold,HDB,Kallang
+2470000,1291.68,4,Leasehold,HDB,Kallang
+2380000,1356.26,16,Leasehold,Private,Kallang
+2350000,1356.26,7,Leasehold,Private,Kallang
+2338388,1528.49,27,Leasehold,Private,Kallang
+911800,592.02,7,Leasehold,HDB,Kallang
+2400000,1291.68,4,Leasehold,Private,Kallang
+808000,419.8,4,Leasehold,HDB,Kallang
+1635000,839.59,14,Freehold,HDB,Kallang
+3350000,1894.46,26,Leasehold,Private,Kallang
+1150000,807.3,26,Leasehold,Private,Kallang
+2040000,1248.62,9,Freehold,HDB,Kallang
+2050000,1033.34,4,Leasehold,Private,Kallang
+1500000,936.47,7,Leasehold,Private,Kallang
+4125000,2325.02,28,Freehold,Private,Kallang
+1720000,1108.69,11,Freehold,Private,Kallang
+2020000,1227.1,19,Leasehold,HDB,Kallang
+940000,419.8,7,Freehold,Private,Kallang
+1680000,1108.69,11,Freehold,Private,Kallang
+4190000,2400.37,31,Freehold,Private,Kallang
+1710000,925.7,16,Leasehold,Private,Kallang
+2180000,1216.33,7,Leasehold,HDB,Kallang
+1450000,990.29,18,Leasehold,Private,Kallang
+1910000,1345.5,26,Leasehold,Private,Kallang
+1750000,818.06,7,Freehold,Private,Kallang
+2320000,1313.21,16,Leasehold,Private,Kallang
+2722000,1216.33,7,Freehold,HDB,Kallang
+8.00E+05,441.32,7,Leasehold,Private,Kallang
+1810000,1162.51,9,Freehold,Private,Kallang
+4380000,2400.37,31,Freehold,Private,Kallang
+1680000,1076.4,7,Leasehold,Private,Kallang
+2520000,1453.14,15,Leasehold,Private,Kallang
+5.00E+06,2744.82,23,Leasehold,Private,Kallang
+1170000,699.66,7,Leasehold,HDB,Kallang
+2560000,1442.38,30,Freehold,Private,Kallang
+1820000,1280.92,26,Leasehold,Private,Kallang
+1926000,1453.14,19,Leasehold,Private,Kallang
+2208000,1280.92,19,Leasehold,HDB,Kallang
+1180000,699.66,7,Leasehold,HDB,Kallang
+2300000,1485.43,18,Leasehold,Private,Kallang
+2.00E+06,1216.33,19,Leasehold,Private,Kallang
+2388000,1291.68,4,Leasehold,Private,Kallang
+1500000,839.59,7,Leasehold,Private,Kallang
+1700000,828.83,7,Freehold,Private,Kallang
+3080000,2055.92,26,Leasehold,Private,Kallang
+2440000,1420.85,16,Leasehold,Private,Kallang
+1435000,828.83,20,Leasehold,HDB,Kallang
+4728000,2411.14,31,Freehold,Private,Kallang
+1445000,990.29,18,Leasehold,Private,Kallang
+2150000,1517.72,27,Leasehold,HDB,Kallang
+1950000,1216.33,19,Leasehold,Private,Kallang
+1960000,1216.33,19,Leasehold,Private,Kallang
+2650000,1517.72,14,Freehold,HDB,Kallang
+1498000,721.19,4,Leasehold,Private,Kallang
+4300000,2411.14,31,Freehold,Private,Kallang
+1250000,699.66,7,Leasehold,Private,Kallang
+2538000,1410.08,16,Leasehold,Private,Kallang
+2070888,1765.3,26,Freehold,Private,Kallang
+848888,419.8,4,Leasehold,Private,Kallang
+2480000,1356.26,16,Leasehold,Private,Kallang
+2050000,1377.79,26,Leasehold,HDB,Kallang
+2870000,1711.48,20,Leasehold,Private,Kallang
+1190000,678.13,16,Leasehold,Private,Kallang
+1200000,699.66,7,Leasehold,Private,Kallang
+2068220,1399.32,20,Leasehold,Private,Kallang
+898888,419.8,4,Leasehold,HDB,Kallang
+3900000,2238.91,26,Leasehold,Private,Kallang
+1938000,1259.39,18,Leasehold,Private,Kallang
+3885000,2142.04,31,Freehold,Private,Kallang
+3200000,1969.81,26,Leasehold,Private,Kallang
+2840000,1550.02,15,Freehold,Private,Kallang
+1120000,818.06,7,Leasehold,Private,Kallang
+2200000,1356.26,19,Leasehold,Private,Kallang
+3850000,2142.04,31,Freehold,HDB,Kallang
+1.00E+06,473.62,7,Freehold,HDB,Kallang
+1480000,936.47,7,Leasehold,Private,Kallang
+1300000,785.77,19,Leasehold,Private,Kallang
+1380000,828.83,20,Leasehold,HDB,Kallang
+2410000,1216.33,14,Freehold,Private,Kallang
+1880000,1302.44,26,Freehold,Private,Kallang
+2860000,1776.06,26,Leasehold,Private,Kallang
+8.00E+05,441.32,7,Leasehold,HDB,Kallang
+2030000,1033.34,4,Leasehold,Private,Kallang
+1680000,1033.34,7,Leasehold,HDB,Kallang
+2575000,1474.67,26,Leasehold,Private,Kallang
+1580000,893.41,16,Leasehold,Private,Kallang
+1450000,721.19,4,Leasehold,HDB,Kallang
+945000,667.37,11,Freehold,Private,Kallang
+1038000,559.73,16,Leasehold,Private,Kallang
+1430000,807.3,7,Leasehold,Private,Kallang
+1420000,990.29,18,Leasehold,Private,Kallang
+1220000,678.13,16,Leasehold,Private,Kallang
+5.00E+06,2809.4,26,Leasehold,Private,Kallang
+2.00E+06,1345.5,26,Leasehold,Private,Kallang
+808888,441.32,7,Leasehold,HDB,Kallang
+1300000,828.83,20,Leasehold,HDB,Kallang
+3990000,2142.04,31,Freehold,Private,Kallang
+1520000,904.18,19,Leasehold,Private,Kallang
+1368888,699.66,7,Leasehold,HDB,Kallang
+2150000,1356.26,19,Leasehold,Private,Kallang
+2660000,1291.68,4,Leasehold,Private,Kallang
+2250000,2152.8,11,Freehold,HDB,Kallang
+1780000,1259.39,18,Leasehold,Private,Kallang
+4.00E+06,2142.04,31,Freehold,Private,Kallang
+1410000,990.29,26,Leasehold,Private,Kallang
+1270000,699.66,7,Leasehold,Private,Kallang
+1868000,1194.8,7,Leasehold,Private,Kallang
+870000,419.8,4,Leasehold,HDB,Kallang
+4150000,2411.14,30,Freehold,Private,Kallang
+4100000,2088.22,26,Leasehold,Private,Kallang
+2530000,1291.68,15,Freehold,Private,Kallang
+1180000,699.66,7,Leasehold,Private,Kallang
+1255000,688.9,16,Leasehold,HDB,Kallang
+1308888,893.41,11,Freehold,Private,Kallang
+2400000,1291.68,15,Freehold,Private,Kallang
+2421000,1646.89,26,Leasehold,Private,Kallang
+2055000,1216.33,19,Leasehold,Private,Kallang
+2300000,1001.05,15,Freehold,Private,Marine Parade
+1530000,731.95,7,Freehold,Private,Marine Parade
+1850000,1108.69,19,Leasehold,Private,Marine Parade
+3500000,1646.89,15,Freehold,Private,Marine Parade
+1900000,1076.4,19,Freehold,HDB,Marine Parade
+1830000,979.52,9,Leasehold,Private,Marine Parade
+3825000,2077.45,35,Freehold,Private,Marine Parade
+1050000,592.02,9,Leasehold,HDB,Marine Parade
+3820000,1528.49,13,Freehold,HDB,Marine Parade
+2832750,1259.39,13,Freehold,HDB,Marine Parade
+5.00E+06,2540.3,9,Leasehold,Private,Marine Parade
+3750000,1700.71,13,Freehold,Private,Marine Parade
+2528000,1227.1,30,Freehold,Private,Marine Parade
+2600000,1291.68,9,Leasehold,Private,Marine Parade
+3700000,1603.84,13,Freehold,HDB,Marine Parade
+1880000,1065.64,9,Leasehold,HDB,Marine Parade
+4150000,2206.62,11,Freehold,Private,Marine Parade
+3150000,1560.78,15,Freehold,Private,Marine Parade
+2208000,1001.05,15,Freehold,Private,Marine Parade
+3150000,1657.66,13,Freehold,Private,Marine Parade
+2680000,1216.33,15,Freehold,Private,Marine Parade
+3820000,1646.89,15,Freehold,Private,Marine Parade
+1270000,570.49,13,Freehold,Private,Marine Parade
+2325000,1291.68,19,Leasehold,HDB,Marine Parade
+2730000,1313.21,15,Freehold,Private,Marine Parade
+3100000,1550.02,19,Freehold,Private,Marine Parade
+1820000,979.52,19,Freehold,Private,Marine Parade
+2330000,1140.98,9,Leasehold,Private,Marine Parade
+1880000,968.76,9,Leasehold,Private,Marine Parade
+3250000,1506.96,9,Leasehold,Private,Marine Parade
+4650000,2109.74,13,Freehold,Private,Marine Parade
+1950000,1065.64,9,Leasehold,HDB,Marine Parade
+1645000,731.95,7,Freehold,Private,Marine Parade
+2400000,1302.44,19,Leasehold,Private,Marine Parade
+2320000,1140.98,9,Leasehold,Private,Marine Parade
+2180000,1151.75,25,Freehold,Private,Marine Parade
+2960000,1582.31,25,Freehold,Private,Marine Parade
+1860000,1108.69,19,Leasehold,Private,Marine Parade
+3150000,1367.03,16,Freehold,Private,Marine Parade
+2988000,1280.92,9,Freehold,Private,Marine Parade
+2850000,1345.5,15,Freehold,Private,Marine Parade
+1580000,688.9,7,Freehold,Private,Marine Parade
+1980000,1065.64,9,Leasehold,Private,Marine Parade
+2750000,1302.44,9,Freehold,Private,Marine Parade
+3850000,1603.84,13,Freehold,Private,Marine Parade
+2250000,1065.64,13,Freehold,Private,Marine Parade
+2840000,1506.96,25,Freehold,Private,Marine Parade
+2.00E+06,1108.69,19,Leasehold,Private,Marine Parade
+3350000,1808.35,41,Freehold,Private,Marine Parade
+2680000,1302.44,9,Freehold,Private,Marine Parade
+3960000,1646.89,15,Freehold,Private,Marine Parade
+3285000,1517.72,15,Freehold,Private,Marine Parade
+3500000,1442.38,13,Freehold,HDB,Marine Parade
+1930000,1108.69,19,Leasehold,Private,Marine Parade
+13200000,5608.04,13,Freehold,Private,Marine Parade
+5050000,2023.63,13,Freehold,Private,Marine Parade
+2.00E+06,1065.64,9,Leasehold,Private,Marine Parade
+2580000,1420.85,29,Freehold,Private,Marine Parade
+2888000,1280.92,10,Freehold,Private,Marine Parade
+2950000,1377.79,13,Freehold,Private,Marine Parade
+5068000,2518.78,9,Leasehold,Private,Marine Parade
+2800000,1636.13,25,Freehold,Private,Marine Parade
+2870000,1539.25,19,Leasehold,Private,Marine Parade
+3.00E+06,1345.5,15,Freehold,HDB,Marine Parade
+2360000,1162.51,12,Freehold,Private,Marine Parade
+1960000,1065.64,9,Leasehold,Private,Marine Parade
+3030000,1496.2,9,Leasehold,Private,Marine Parade
+2475000,1399.32,25,Freehold,HDB,Marine Parade
+3600000,1668.42,32,Freehold,Private,Marine Parade
+2760000,1270.15,13,Freehold,HDB,Marine Parade
+1960000,1108.69,19,Leasehold,HDB,Marine Parade
+2960000,1474.67,27,Freehold,Private,Marine Parade
+3490000,1743.77,25,Freehold,Private,Marine Parade
+2980000,1603.84,41,Freehold,HDB,Marine Parade
+3530000,1657.66,13,Freehold,Private,Marine Parade
+3200000,1410.08,15,Freehold,HDB,Marine Parade
+1900000,904.18,10,Freehold,HDB,Marine Parade
+2470000,1011.82,16,Freehold,Private,Marine Parade
+2920000,1334.74,13,Freehold,Private,Marine Parade
+3068000,1636.13,30,Freehold,Private,Marine Parade
+1608880,893.41,9,Leasehold,Private,Marine Parade
+5800000,2637.18,30,Freehold,Private,Marine Parade
+3500000,1410.08,15,Freehold,Private,Marine Parade
+2213338,958,13,Freehold,Private,Marine Parade
+3120000,1474.67,27,Freehold,Private,Marine Parade
+2038000,1151.75,25,Freehold,Private,Marine Parade
+3180000,1474.67,27,Freehold,Private,Marine Parade
+1250000,570.49,13,Freehold,Private,Marine Parade
+2850000,1550.02,19,Freehold,Private,Marine Parade
+1588000,731.95,7,Freehold,Private,Marine Parade
+3128000,1270.15,9,Freehold,HDB,Marine Parade
+2300000,1065.64,13,Freehold,Private,Marine Parade
+4500000,2055.92,9,Freehold,Private,Marine Parade
+6300000,2443.43,13,Freehold,Private,Marine Parade
+3130000,1517.72,12,Freehold,HDB,Marine Parade
+2850000,1313.21,15,Freehold,Private,Marine Parade
+2950000,1603.84,41,Freehold,Private,Marine Parade
+2830000,1517.72,25,Freehold,Private,Marine Parade
+1800000,1065.64,13,Freehold,Private,Marine Parade
+2900000,1453.14,13,Freehold,Private,Marine Parade
+1080000,592.02,9,Leasehold,Private,Marine Parade
+6300000,2443.43,13,Freehold,Private,Marine Parade
+2300000,1313.21,19,Leasehold,Private,Marine Parade
+2250000,1323.97,19,Leasehold,Private,Marine Parade
+4820000,1959.05,13,Freehold,Private,Marine Parade
+2820000,1431.61,9,Leasehold,Private,Marine Parade
+4550000,1959.05,13,Freehold,Private,Marine Parade
+2850000,1506.96,25,Freehold,Private,Marine Parade
+2750400,1539.25,19,Leasehold,Private,Marine Parade
+1575000,871.88,9,Leasehold,Private,Marine Parade
+1720000,1108.69,19,Leasehold,Private,Marine Parade
+2248000,1442.38,12,Freehold,Private,Marine Parade
+3505000,1560.78,15,Freehold,Private,Marine Parade
+2300000,1140.98,9,Leasehold,Private,Marine Parade
+3.00E+06,1377.79,16,Freehold,Private,Marine Parade
+2460000,1162.51,12,Freehold,Private,Marine Parade
+2300000,1130.22,15,Freehold,Private,Marine Parade
+3500000,1808.35,41,Freehold,Private,Marine Parade
+2400000,1367.03,19,Leasehold,Private,Marine Parade
+2835000,1442.38,19,Freehold,Private,Marine Parade
+3215000,1646.89,25,Freehold,Private,Marine Parade
+2788000,1582.31,25,Freehold,Private,Marine Parade
+3780000,1614.6,13,Freehold,Private,Marine Parade
+3650000,1614.6,13,Freehold,Private,Marine Parade
+2400000,1291.68,25,Freehold,Private,Marine Parade
+3550000,1517.72,15,Freehold,Private,Marine Parade
+3580000,1410.08,15,Freehold,Private,Marine Parade
+3488000,1528.49,13,Freehold,HDB,Marine Parade
+4590000,1915.99,17,Freehold,Private,Others
+3400000,1410.08,17,Freehold,Private,Others
+3930000,1733,17,Freehold,Private,Others
+4500000,1905.23,17,Freehold,Private,Others
+4650000,1915.99,17,Freehold,Private,Others
+3480000,1356.26,17,Freehold,Private,Others
+2900000,1237.86,19,Freehold,Private,Newton
+5250000,1969.81,10,Freehold,Private,Newton
+4300000,1733,25,Freehold,Private,Newton
+4900000,2034.4,11,Freehold,Private,Newton
+3800000,1733,19,Freehold,Private,Newton
+3780000,2281.97,16,Leasehold,Private,Newton
+4500000,1550.02,12,Freehold,Private,Newton
+4280000,1905.23,20,Freehold,Private,Newton
+4238000,1334.74,9,Freehold,Private,Newton
+3968000,1657.66,25,Freehold,Private,Newton
+2740000,1001.05,10,Freehold,Private,Newton
+2350000,1140.98,14,Freehold,Private,Newton
+3850000,1733,19,Freehold,Private,Newton
+12680000,4111.85,14,Freehold,Private,Newton
+2350000,882.65,10,Freehold,Private,Newton
+12800000,2884.75,22,Freehold,Private,Newton
+6800000,2604.89,10,Freehold,Private,Newton
+3910000,1733,19,Freehold,Private,Newton
+7700000,1776.06,9,Freehold,Private,Newton
+6619000,1550.02,12,Freehold,Private,Newton
+13008888,2884.75,22,Freehold,Private,Newton
+4288888,1733,19,Freehold,Private,Newton
+2300000,882.65,10,Freehold,Private,Newton
+4340000,1550.02,10,Freehold,Private,Newton
+5088000,2012.87,19,Freehold,Private,Newton
+5750000,2809.4,13,Freehold,Private,Newton
+6600000,2023.63,13,Freehold,Private,Newton
+5.00E+06,1969.81,19,Freehold,Private,Newton
+7280000,2454.19,10,Freehold,Private,Newton
+5.00E+06,2142.04,21,Freehold,Private,Newton
+3600000,1571.54,13,Freehold,Private,Newton
+11100000,2884.75,22,Freehold,Private,Newton
+1.80E+07,3584.41,9,Freehold,Private,Newton
+3600000,1313.21,10,Freehold,Private,Newton
+5688800,2809.4,13,Freehold,HDB,Newton
+7080000,2195.86,14,Freehold,Private,Newton
+4.00E+06,1743.77,22,Freehold,Private,Newton
+6280000,2023.63,13,Freehold,Private,Newton
+2880000,1119.46,10,Freehold,Private,Newton
+6950000,1743.77,9,Freehold,Private,Newton
+7150000,2497.25,10,Freehold,Private,Newton
+3300000,1539.25,10,Freehold,Private,Newton
+12900000,2884.75,22,Freehold,Private,Newton
+4800000,1969.81,19,Freehold,Private,Newton
+6100000,2787.88,13,Freehold,Private,Newton
+6600000,2023.63,13,Freehold,HDB,Newton
+3850000,2098.98,16,Leasehold,Private,Newton
+2560000,1173.28,18,Leasehold,Private,Newton
+1768000,850.36,7,Leasehold,HDB,Newton
+2360000,882.65,10,Freehold,Private,Newton
+2900000,1646.89,18,Leasehold,Private,Newton
+7696000,2475.72,9,Freehold,Private,Newton
+5028888,2142.04,21,Freehold,Private,Newton
+11680000,3347.6,38,Freehold,Private,Newton
+3850000,1743.77,14,Freehold,Private,Newton
+2650000,1001.05,10,Freehold,Private,Newton
+3630000,1571.54,13,Freehold,Private,Newton
+8680000,4014.97,18,Leasehold,Private,Newton
+4215000,1840.64,20,Freehold,Private,Newton
+2950000,1937.52,19,Freehold,HDB,Newton
+2550000,1205.57,19,Freehold,Private,Newton
+4300000,1689.95,31,Freehold,Private,Newton
+2450000,1173.28,18,Leasehold,Private,Newton
+920000,473.62,6,Freehold,Private,Novena
+2650000,1313.21,10,Freehold,Private,Novena
+2430000,1280.92,17,Freehold,Private,Novena
+3350000,1463.9,15,Freehold,HDB,Novena
+3710000,1722.24,12,Leasehold,Private,Novena
+3150000,1872.94,13,Freehold,HDB,Novena
+1680000,947.23,24,Freehold,Private,Novena
+2610000,1044.11,11,Freehold,Private,Novena
+2800000,1420.85,10,Freehold,HDB,Novena
+3150000,1593.07,13,Freehold,Private,Novena
+3050000,1485.43,14,Freehold,Private,Novena
+3320000,1463.9,15,Freehold,Private,Novena
+1150000,462.85,9,Freehold,HDB,Novena
+1788888,958,19,Leasehold,Private,Novena
+2500000,1259.39,19,Leasehold,Private,Novena
+3200000,1474.67,9,Freehold,Private,Novena
+1800000,979.52,19,Leasehold,Private,Novena
+2048000,958,14,Freehold,Private,Novena
+1758888,958,19,Leasehold,HDB,Novena
+1650000,871.88,9,Freehold,Private,Novena
+3250000,2314.26,11,Leasehold,Private,Novena
+2338000,1302.44,19,Freehold,Private,Novena
+2500000,1237.86,19,Leasehold,Private,Novena
+1788000,958,19,Leasehold,Private,Novena
+2.00E+06,958,12,Leasehold,Private,Novena
+1880000,958,12,Leasehold,HDB,Novena
+2650000,1044.11,11,Freehold,Private,Novena
+2550000,1280.92,10,Freehold,Private,Novena
+1150000,462.85,9,Freehold,Private,Novena
+1100000,581.26,12,Leasehold,HDB,Novena
+1100000,462.85,9,Freehold,HDB,Novena
+3630000,1689.95,15,Freehold,Private,Novena
+2388000,1237.86,19,Leasehold,Private,Novena
+3800000,1517.72,11,Freehold,Private,Novena
+1850000,1054.87,13,Freehold,Private,Novena
+6480000,3562.88,9,Freehold,Private,Novena
+1910000,979.52,19,Leasehold,HDB,Novena
+3200000,1872.94,13,Freehold,Private,Novena
+2700000,1528.49,13,Freehold,Private,Novena
+1085000,473.62,9,Freehold,HDB,Novena
+7.00E+06,3562.88,10,Freehold,Private,Novena
+3470000,1539.25,16,Freehold,Private,Novena
+3500000,1539.25,16,Freehold,Private,Novena
+2.00E+06,958,12,Leasehold,Private,Novena
+2220000,1194.8,10,Freehold,Private,Novena
+1820000,958,19,Leasehold,Private,Novena
+3100000,1733,22,Leasehold,Private,Novena
+2380000,1033.34,16,Freehold,Private,Novena
+4160000,1840.64,9,Freehold,Private,Novena
+4550000,2195.86,32,Freehold,Private,Novena
+3450000,1420.85,15,Freehold,Private,Novena
+1248000,688.9,9,Freehold,HDB,Novena
+3080000,2163.56,11,Leasehold,Private,Novena
+1030000,613.55,18,Freehold,Private,Novena
+2820000,1291.68,21,Freehold,Private,Novena
+1668000,925.7,10,Freehold,Private,Novena
+3250000,1657.66,32,Freehold,Private,Novena
+2350000,1259.39,19,Leasehold,Private,Novena
+1910000,936.47,12,Leasehold,HDB,Novena
+1920000,936.47,12,Leasehold,Private,Novena
+2750000,1216.33,14,Freehold,HDB,Novena
+2750000,1528.49,13,Freehold,HDB,Novena
+4620000,1991.34,10,Freehold,HDB,Novena
+2544108,1302.44,9,Freehold,Private,Novena
+2150000,958,14,Freehold,Private,Novena
+1828000,1054.87,13,Freehold,Private,Novena
+3500000,1463.9,15,Freehold,Private,Novena
+2530000,1237.86,19,Leasehold,Private,Novena
+1680000,871.88,9,Freehold,Private,Novena
+2.00E+06,1657.66,39,Freehold,Private,Novena
+2050000,947.23,21,Freehold,HDB,Novena
+4950000,2098.98,11,Freehold,HDB,Novena
+1850000,958,19,Leasehold,HDB,Novena
+2731000,1506.96,11,Leasehold,Private,Novena
+1315000,656.6,19,Leasehold,Private,Novena
+3200000,1463.9,12,Leasehold,Private,Novena
+1128000,635.08,10,Freehold,Private,Novena
+2200000,1011.82,6,Freehold,Private,Novena
+2860000,1528.49,13,Freehold,HDB,Novena
+2455000,1237.86,19,Leasehold,Private,Novena
+1052988,462.85,9,Freehold,Private,Novena
+3220000,1679.18,32,Freehold,HDB,Novena
+1720000,925.7,10,Freehold,Private,Novena
+4070000,2454.19,10,Freehold,Private,Novena
+3753000,1991.34,19,Leasehold,Private,Novena
+2250000,1280.92,22,Leasehold,Private,Novena
+1680000,936.47,24,Freehold,Private,Novena
+2700000,1087.16,11,Freehold,Private,Novena
+2290000,1097.93,12,Leasehold,Private,Novena
+3400000,1345.5,11,Freehold,Private,Novena
+1060000,581.26,12,Leasehold,Private,Novena
+3250000,1410.08,9,Freehold,Private,Novena
+2380000,1216.33,10,Freehold,Private,Novena
+2688000,1162.51,11,Freehold,Private,Novena
+2400000,1237.86,19,Leasehold,Private,Novena
+4150000,2486.48,32,Freehold,Private,Novena
+1088000,624.31,10,Freehold,Private,Novena
+1188000,699.66,19,Freehold,HDB,Novena
+1860000,958,14,Freehold,Private,Novena
+2380000,1259.39,19,Leasehold,HDB,Novena
+1540000,925.7,10,Freehold,Private,Novena
+2728000,1528.49,13,Freehold,HDB,Novena
+2440000,1097.93,12,Leasehold,HDB,Novena
+1198000,581.26,12,Leasehold,Private,Novena
+955000,559.73,10,Freehold,Private,Novena
+2700000,1388.56,45,Freehold,Private,Novena
+2220000,1140.98,13,Freehold,Private,Novena
+2200000,1259.39,17,Freehold,Private,Novena
+3750000,1614.6,9,Freehold,Private,Novena
+2570000,1087.16,11,Freehold,Private,Novena
+2900000,1485.43,12,Leasehold,Private,Novena
+3850000,1453.14,21,Freehold,Private,Others
+1.10E+07,2830.93,6,Freehold,Private,Others
+3850000,1453.14,21,Freehold,Private,Others
+3650000,1485.43,21,Freehold,Private,Others
+3500000,1485.43,21,Freehold,Private,Others
+1.00E+07,2583.36,6,Freehold,Private,Others
+3130000,1237.86,21,Freehold,Private,Others
+3100000,1237.86,21,Freehold,Private,Others
+6400000,1776.06,6,Freehold,Private,Others
+2950000,1216.33,24,Freehold,Private,Others
+2100000,936.47,24,Freehold,Private,Others
+1598000,807.3,3,Leasehold,Private,Queenstown
+1615000,699.66,6,Leasehold,Private,Queenstown
+1600000,753.48,6,Leasehold,Private,Queenstown
+3490000,3326.08,38,Freehold,Private,Queenstown
+2188000,1883.7,18,Freehold,Private,Queenstown
+4600000,3498.3,39,Freehold,Private,Queenstown
+915000,462.85,6,Leasehold,HDB,Queenstown
+1868000,1119.46,7,Freehold,Private,Queenstown
+1780000,1248.62,26,Leasehold,Private,Queenstown
+1485000,839.59,7,Freehold,Private,Queenstown
+2750000,1420.85,26,Freehold,Private,Queenstown
+1420000,1323.97,26,Leasehold,Private,Queenstown
+2600000,1711.48,12,Freehold,Private,Queenstown
+1810000,839.59,3,Leasehold,Private,Queenstown
+2610000,1420.85,26,Freehold,Private,Queenstown
+1420000,688.9,6,Leasehold,Private,Queenstown
+1280000,936.47,26,Leasehold,Private,Queenstown
+2080000,1334.74,17,Freehold,Private,Queenstown
+960000,430.56,3,Leasehold,Private,Queenstown
+928888,462.85,6,Leasehold,Private,Queenstown
+945000,462.85,6,Leasehold,HDB,Queenstown
+7800000,5543.46,35,Freehold,Private,Queenstown
+2620000,1463.9,26,Freehold,Private,Queenstown
+1808000,1194.8,21,Leasehold,HDB,Queenstown
+2080000,1033.34,6,Leasehold,Private,Queenstown
+1200000,968.76,26,Leasehold,Private,Queenstown
+920000,495.14,13,Freehold,Private,Queenstown
+1950000,1194.8,23,Leasehold,HDB,Queenstown
+928000,462.85,6,Leasehold,Private,Queenstown
+1920000,850.36,3,Leasehold,Private,Queenstown
+2280000,1076.4,6,Leasehold,Private,Queenstown
+2500000,1733,30,Freehold,Private,Queenstown
+1280000,936.47,26,Leasehold,HDB,Queenstown
+1918000,904.18,6,Leasehold,Private,Queenstown
+1250000,968.76,26,Leasehold,Private,Queenstown
+3020000,1765.3,26,Freehold,Private,Queenstown
+1880000,1194.8,21,Leasehold,Private,Queenstown
+1320000,936.47,26,Leasehold,HDB,Queenstown
+1345000,968.76,23,Leasehold,Private,Queenstown
+2080000,1184.04,26,Freehold,Private,Queenstown
+1490000,699.66,6,Leasehold,HDB,Queenstown
+988000,462.85,6,Leasehold,Private,Queenstown
+1845000,1248.62,26,Leasehold,Private,Queenstown
+1770000,1011.82,7,Freehold,Private,Queenstown
+1500000,796.54,6,Leasehold,Private,Queenstown
+1800000,1194.8,21,Leasehold,Private,Queenstown
+2528880,1506.96,12,Freehold,Private,Queenstown
+3580000,1797.59,26,Freehold,Private,Queenstown
+1950000,1173.28,26,Freehold,Private,Queenstown
+1740000,796.54,6,Leasehold,HDB,Queenstown
+1768000,1291.68,26,Leasehold,Private,Queenstown
+1408000,656.6,0,Leasehold,HDB,Queenstown
+1080000,495.14,3,Leasehold,Private,Queenstown
+2801000,1463.9,26,Freehold,Private,Queenstown
+2336666,1463.9,23,Leasehold,HDB,Queenstown
+3280000,1937.52,12,Freehold,Private,Queenstown
+950000,462.85,6,Leasehold,Private,Queenstown
+1680000,1248.62,26,Leasehold,Private,Queenstown
+1820000,1194.8,23,Leasehold,HDB,Queenstown
+2430000,1603.84,26,Freehold,Private,Queenstown
+970000,441.32,3,Leasehold,HDB,Queenstown
+3600000,2615.65,38,Freehold,Private,Queenstown
+1987888,1194.8,21,Leasehold,HDB,Queenstown
+2288000,1679.18,15,Freehold,Private,Queenstown
+1750000,1248.62,26,Leasehold,Private,Queenstown
+1385000,688.9,6,Leasehold,Private,Queenstown
+1808000,1184.04,21,Leasehold,Private,Queenstown
+960000,462.85,6,Leasehold,HDB,Queenstown
+968000,484.38,6,Leasehold,Private,Queenstown
+1370000,968.76,23,Leasehold,HDB,Queenstown
+1868888,839.59,3,Leasehold,HDB,Queenstown
+2168000,1001.05,3,Leasehold,Private,Queenstown
+3138000,1829.88,26,Freehold,Private,Queenstown
+1020000,495.14,3,Leasehold,HDB,Queenstown
+985888,462.85,6,Leasehold,HDB,Queenstown
+1560000,688.9,6,Leasehold,HDB,Queenstown
+960000,441.32,6,Leasehold,HDB,Queenstown
+2820000,2174.33,17,Freehold,HDB,Queenstown
+1738000,1011.82,7,Freehold,Private,Queenstown
+1325000,936.47,26,Leasehold,HDB,Queenstown
+2620000,1506.96,12,Freehold,Private,Queenstown
+1880000,1248.62,26,Leasehold,HDB,Queenstown
+955000,430.56,3,Leasehold,HDB,Queenstown
+1595000,807.3,3,Leasehold,Private,Queenstown
+1750000,807.3,3,Leasehold,Private,Queenstown
+2.00E+06,1205.57,23,Leasehold,Private,Queenstown
+1390000,688.9,6,Leasehold,Private,Queenstown
+1800000,1194.8,21,Leasehold,Private,Queenstown
+1655000,1248.62,26,Leasehold,Private,Queenstown
+1888000,1194.8,23,Leasehold,HDB,Queenstown
+1280000,968.76,26,Leasehold,Private,Queenstown
+2668000,2228.15,26,Leasehold,Private,Queenstown
+1738000,1001.05,9,Freehold,Private,Queenstown
+2050168,904.18,6,Leasehold,Private,Queenstown
+735000,398.27,13,Freehold,Private,Queenstown
+1288000,968.76,26,Leasehold,Private,Queenstown
+1920000,904.18,6,Leasehold,Private,Queenstown
+1950000,1184.04,21,Leasehold,Private,Queenstown
+1225000,936.47,26,Leasehold,Private,Queenstown
+1600000,1216.33,24,Freehold,Private,Queenstown
+1965000,1313.21,23,Leasehold,Private,Queenstown
+3128000,1829.88,26,Freehold,Private,Queenstown
+995000,441.32,6,Leasehold,Private,Queenstown
+1630000,753.48,6,Leasehold,HDB,Queenstown
+890000,452.09,6,Leasehold,Private,Queenstown
+2200000,1302.44,17,Freehold,Private,Queenstown
+1050000,484.38,3,Leasehold,HDB,Queenstown
+1600000,807.3,3,Leasehold,Private,Queenstown
+1850000,947.23,3,Leasehold,Private,Queenstown
+1400000,688.9,6,Leasehold,Private,Queenstown
+1850000,947.23,3,Leasehold,HDB,Queenstown
+1470000,688.9,6,Leasehold,Private,Queenstown
+1590000,753.48,6,Leasehold,HDB,Queenstown
+1880000,1194.8,23,Leasehold,HDB,Queenstown
+3200000,1829.88,26,Freehold,Private,Queenstown
+1480000,688.9,6,Leasehold,Private,Queenstown
+845000,495.14,15,Freehold,Private,Queenstown
+1600000,807.3,3,Leasehold,Private,Queenstown
+950000,452.09,6,Leasehold,Private,Queenstown
+1595000,775.01,3,Leasehold,HDB,Queenstown
+1375000,828.83,7,Freehold,Private,Queenstown
+745000,409.03,13,Freehold,HDB,Queenstown
+2310000,1410.08,21,Leasehold,HDB,Queenstown
+1499000,1022.58,27,Freehold,Private,Queenstown
+1690000,807.3,3,Leasehold,Private,Queenstown
+950000,441.32,6,Leasehold,Private,Queenstown
+1780000,1194.8,21,Leasehold,Private,Queenstown
+2028000,1313.21,23,Leasehold,HDB,Queenstown
+2248000,1033.34,6,Leasehold,HDB,Queenstown
+1260000,936.47,26,Leasehold,HDB,Queenstown
+1530000,914.94,21,Leasehold,Private,Queenstown
+1860000,904.18,6,Leasehold,Private,Queenstown
+960000,430.56,3,Leasehold,HDB,Queenstown
+1968888,1313.21,23,Leasehold,HDB,Queenstown
+990000,462.85,6,Leasehold,Private,Queenstown
+2400000,1463.9,23,Leasehold,Private,Queenstown
+1860000,1184.04,21,Leasehold,HDB,Queenstown
+918000,441.32,6,Leasehold,Private,Queenstown
+965000,473.62,6,Leasehold,Private,Queenstown
+2480000,1506.96,12,Freehold,Private,Queenstown
+1960000,1194.8,21,Leasehold,HDB,Queenstown
+9.00E+05,484.38,6,Leasehold,HDB,Queenstown
+2470000,1420.85,26,Freehold,HDB,Queenstown
+1800000,1022.58,7,Freehold,Private,Queenstown
+1293000,936.47,26,Leasehold,HDB,Queenstown
+980000,430.56,3,Leasehold,Private,Queenstown
+2150000,1205.57,26,Freehold,HDB,Queenstown
+1345000,624.31,3,Leasehold,HDB,Queenstown
+1700000,1636.13,26,Leasehold,HDB,Queenstown
+1550000,914.94,21,Leasehold,HDB,Queenstown
+975000,462.85,6,Leasehold,Private,Queenstown
+750000,409.03,13,Freehold,HDB,Queenstown
+1020000,473.62,6,Leasehold,Private,Queenstown
+2550000,1474.67,9,Freehold,HDB,Queenstown
+1570000,968.76,15,Freehold,HDB,Queenstown
+2420000,1054.87,3,Leasehold,Private,Queenstown
+1580000,1076.4,7,Freehold,Private,Queenstown
+1360000,624.31,3,Leasehold,Private,Queenstown
+1480000,688.9,6,Leasehold,Private,Queenstown
+2.00E+06,1194.8,26,Freehold,Private,Queenstown
+1850000,839.59,3,Leasehold,HDB,Queenstown
+980000,441.32,3,Leasehold,Private,Queenstown
+1430000,968.76,23,Leasehold,Private,Queenstown
+1530000,775.01,3,Leasehold,HDB,Queenstown
+2128000,1313.21,23,Leasehold,Private,Queenstown
+2650000,1420.85,26,Freehold,HDB,Queenstown
+1950000,936.47,3,Leasehold,HDB,Queenstown
+930000,462.85,6,Leasehold,HDB,Queenstown
+1620000,807.3,3,Leasehold,HDB,Queenstown
+1580000,753.48,6,Leasehold,HDB,Queenstown
+1510000,914.94,21,Leasehold,Private,Queenstown
+1950000,1194.8,21,Leasehold,Private,Queenstown
+773000,398.27,13,Freehold,Private,Queenstown
+3680000,1216.33,12,Freehold,Private,River Valley
+2200000,936.47,14,Freehold,HDB,River Valley
+1255000,570.49,8,Leasehold,Private,River Valley
+1580000,570.49,8,Leasehold,Private,River Valley
+1300000,548.96,8,Leasehold,HDB,River Valley
+3600000,1474.67,38,Freehold,Private,River Valley
+4450000,1496.2,12,Freehold,Private,River Valley
+3635000,1420.85,12,Freehold,Private,River Valley
+4400000,1097.93,6,Freehold,Private,River Valley
+3635000,1420.85,12,Freehold,Private,River Valley
+1200000,548.96,8,Leasehold,Private,River Valley
+5700000,2131.27,11,Freehold,Private,River Valley
+2350000,882.65,2,Leasehold,Private,River Valley
+1260000,570.49,8,Leasehold,Private,River Valley
+3200000,1668.42,24,Freehold,Private,River Valley
+2530000,807.3,5,Freehold,Private,River Valley
+2880000,1011.82,2,Leasehold,Private,River Valley
+4018000,1496.2,15,Freehold,Private,River Valley
+4500000,1679.18,13,Freehold,HDB,River Valley
+4445000,1819.12,13,Freehold,Private,River Valley
+4250000,1808.35,37,Freehold,Private,River Valley
+2850000,1323.97,25,Freehold,Private,River Valley
+5700000,2604.89,13,Freehold,Private,River Valley
+3750000,1442.38,14,Freehold,HDB,River Valley
+2906800,1011.82,2,Leasehold,Private,River Valley
+15500000,4424,10,Freehold,Private,River Valley
+3300000,1313.21,15,Freehold,Private,River Valley
+1310000,548.96,8,Leasehold,HDB,River Valley
+2160000,947.23,14,Freehold,Private,River Valley
+3400000,1593.07,25,Freehold,Private,River Valley
+7800000,3616.7,9,Freehold,Private,River Valley
+8100000,2841.7,12,Freehold,HDB,River Valley
+2450000,1054.87,8,Leasehold,Private,River Valley
+3250000,1582.31,25,Freehold,Private,River Valley
+3250000,1603.84,25,Freehold,Private,River Valley
+2330000,1065.64,11,Freehold,HDB,River Valley
+1620000,635.08,14,Freehold,Private,River Valley
+3970000,1420.85,2,Leasehold,Private,River Valley
+5900000,2540.3,9,Freehold,Private,River Valley
+1200000,570.49,8,Leasehold,Private,River Valley
+2400000,1140.98,24,Freehold,Private,River Valley
+8300000,3433.72,37,Freehold,Private,River Valley
+12500000,2691,6,Freehold,Private,River Valley
+10200000,3928.86,11,Freehold,Private,River Valley
+2288000,882.65,2,Leasehold,Private,River Valley
+3368888,1291.68,12,Freehold,Private,River Valley
+2300000,1044.11,25,Freehold,Private,River Valley
+14080000,7717.79,37,Freehold,Private,River Valley
+3700000,1420.85,12,Freehold,Private,River Valley
+2310000,1054.87,8,Leasehold,Private,River Valley
+7350000,2680.24,12,Freehold,Private,River Valley
+1228000,548.96,8,Leasehold,Private,River Valley
+2300000,882.65,2,Leasehold,HDB,River Valley
+3760000,1399.32,2,Leasehold,Private,River Valley
+1400000,581.26,16,Freehold,HDB,River Valley
+4500000,2540.3,30,Leasehold,Private,River Valley
+2465000,882.65,2,Leasehold,Private,River Valley
+3300000,1582.31,25,Freehold,Private,River Valley
+7250000,2260.44,29,Freehold,Private,River Valley
+2380000,1065.64,11,Freehold,Private,River Valley
+2960000,1334.74,25,Freehold,Private,River Valley
+7480000,2260.44,29,Freehold,Private,River Valley
+4680000,1679.18,13,Freehold,Private,River Valley
+3300000,1571.54,25,Freehold,Private,River Valley
+2380000,882.65,2,Leasehold,Private,River Valley
+2900000,1162.51,12,Freehold,Private,River Valley
+4930000,2012.87,13,Freehold,Private,River Valley
+7200000,2281.97,15,Freehold,Private,River Valley
+10500000,2744.82,9,Freehold,Private,River Valley
+3040000,1313.21,19,Freehold,Private,River Valley
+3500000,1420.85,19,Freehold,Private,River Valley
+3700000,1216.33,12,Freehold,Private,River Valley
+3580000,1420.85,12,Freehold,Private,River Valley
+1350000,548.96,8,Leasehold,Private,River Valley
+2818000,1345.5,25,Freehold,Private,River Valley
+2230000,882.65,2,Leasehold,Private,River Valley
+2850000,1323.97,25,Freehold,Private,River Valley
+3.00E+06,1313.21,19,Freehold,Private,River Valley
+3180000,1313.21,19,Freehold,Private,River Valley
+5100000,1733,2,Leasehold,Private,River Valley
+4900000,1679.18,13,Freehold,Private,River Valley
+2580000,1065.64,11,Freehold,Private,River Valley
+3680000,1420.85,12,Freehold,HDB,River Valley
+9800000,2841.7,12,Freehold,Private,River Valley
+6500000,3831.98,13,Freehold,Private,River Valley
+8500000,4058.03,15,Freehold,Private,River Valley
+1340000,548.96,8,Leasehold,Private,River Valley
+2460000,1033.34,11,Freehold,Private,River Valley
+4400000,1679.18,13,Freehold,Private,River Valley
+1455000,699.66,5,Leasehold,Private,Rochor
+2030000,968.76,15,Freehold,Private,Rochor
+1550000,699.66,5,Leasehold,HDB,Rochor
+2480000,1453.14,16,Leasehold,Private,Rochor
+2335000,1420.85,16,Leasehold,Private,Rochor
+1050000,559.73,15,Freehold,Private,Rochor
+1380000,861.12,16,Leasehold,Private,Rochor
+1100000,548.96,15,Freehold,Private,Rochor
+1430000,688.9,5,Leasehold,HDB,Rochor
+3150000,1539.25,5,Leasehold,Private,Rochor
+2920000,1496.2,5,Leasehold,Private,Rochor
+2400000,1442.38,16,Leasehold,Private,Rochor
+1068000,592.02,15,Freehold,HDB,Rochor
+1445000,699.66,5,Leasehold,Private,Rochor
+1430000,710.42,5,Leasehold,Private,Rochor
+3.00E+06,2292.73,9,Freehold,Private,Rochor
+2.00E+06,1001.05,15,Freehold,HDB,Rochor
+2050000,968.76,15,Freehold,Private,Rochor
+2420000,1463.9,16,Leasehold,Private,Rochor
+2900000,2034.4,9,Freehold,Private,Rochor
+2400000,1130.22,5,Leasehold,Private,Rochor
+1110000,548.96,15,Freehold,Private,Rochor
+1710000,850.36,5,Leasehold,Private,Rochor
+1710000,850.36,5,Leasehold,Private,Rochor
+1485000,699.66,5,Leasehold,Private,Rochor
+1380000,936.47,16,Leasehold,Private,Rochor
+3880000,2045.16,9,Freehold,Private,Rochor
+2628000,2163.56,16,Leasehold,Private,Rochor
+1150000,570.49,5,Leasehold,HDB,Rochor
+1428000,688.9,5,Leasehold,Private,Rochor
+1120000,570.49,5,Leasehold,Private,Rochor
+1050000,548.96,15,Freehold,Private,Rochor
+1420000,958,16,Leasehold,Private,Rochor
+1488000,710.42,5,Leasehold,Private,Rochor
+1820000,893.41,15,Freehold,Private,Rochor
+2250000,1367.03,16,Leasehold,HDB,Rochor
+1343000,958,16,Leasehold,Private,Rochor
+1128000,505.91,5,Leasehold,Private,Rochor
+1021021,462.85,5,Leasehold,Private,Rochor
+1500000,699.66,5,Leasehold,HDB,Rochor
+1410000,699.66,5,Leasehold,HDB,Rochor
+1580000,731.95,5,Leasehold,HDB,Rochor
+2450000,1442.38,16,Leasehold,Private,Rochor
+1600000,796.54,9,Freehold,Private,Rochor
+1228000,570.49,5,Leasehold,Private,Rochor
+1575000,699.66,5,Leasehold,Private,Rochor
+3280000,1496.2,27,Freehold,Private,Others
+1310000,796.54,24,Leasehold,HDB,Others
+2700000,1582.31,24,Leasehold,Private,Others
+1225000,818.06,24,Leasehold,HDB,Others
+2070000,1259.39,23,Leasehold,HDB,Others
+4800000,1905.23,13,Freehold,Private,Others
+2288000,1334.74,24,Leasehold,HDB,Others
+1540000,968.76,24,Leasehold,Private,Others
+2600000,1582.31,24,Leasehold,Private,Others
+4800000,1797.59,13,Freehold,Private,Others
+2300000,1894.46,24,Leasehold,Private,Others
+3700000,1323.97,15,Freehold,Private,Others
+3838000,2066.69,23,Leasehold,Private,Others
+1183000,570.49,27,Freehold,Private,Others
+1340000,516.67,13,Freehold,HDB,Others
+1700000,1054.87,23,Leasehold,Private,Others
+1685000,1033.34,23,Leasehold,Private,Others
+1310000,516.67,13,Freehold,HDB,Others
+4300000,1765.3,13,Freehold,Private,Others
+4600000,1797.59,13,Freehold,Private,Others
+3130000,1345.5,28,Freehold,HDB,Others
+1308888,570.49,27,Freehold,Private,Others
+2350000,1313.21,24,Leasehold,Private,Others
+3168000,1377.79,13,Freehold,Private,Others
+1500000,818.06,24,Leasehold,HDB,Others
+1236000,753.48,24,Leasehold,HDB,Others
+1450000,850.36,24,Leasehold,Private,Others
+1240000,785.77,23,Leasehold,Private,Others
+3370000,1367.03,13,Freehold,Private,Others
+2800000,1140.98,15,Freehold,HDB,Others
+4461000,2174.33,12,Leasehold,Private,Southern Islands
+3138000,1711.48,13,Leasehold,Private,Southern Islands
+4110000,2174.33,12,Leasehold,Private,Southern Islands
+4850008,2820.17,14,Leasehold,Private,Southern Islands
+5534200,2508.01,10,Leasehold,Private,Southern Islands
+5717000,2508.01,10,Leasehold,Private,Southern Islands
+3680000,1722.24,10,Leasehold,Private,Southern Islands
+5521000,2529.54,10,Leasehold,Private,Southern Islands
+5736000,2508.01,10,Leasehold,Private,Southern Islands
+5544900,2508.01,10,Leasehold,Private,Southern Islands
+3250000,3046.21,17,Leasehold,Private,Southern Islands
+6380000,2970.86,12,Leasehold,Private,Southern Islands
+4522886,2787.88,12,Leasehold,Private,Southern Islands
+4510500,2163.56,12,Leasehold,Private,Southern Islands
+3578000,1679.18,10,Leasehold,Private,Southern Islands
+5624000,2508.01,10,Leasehold,Private,Southern Islands
+4800000,2766.35,12,Leasehold,Private,Southern Islands
+7.00E+06,3788.93,12,Leasehold,Private,Southern Islands
+3568000,1679.18,10,Leasehold,Private,Southern Islands
+4610000,2680.24,13,Leasehold,Private,Southern Islands
+6374500,2852.46,12,Leasehold,Private,Southern Islands
+3838000,2023.63,14,Leasehold,Private,Southern Islands
+3.00E+06,1733,13,Leasehold,Private,Southern Islands
+5741000,2669.47,12,Leasehold,Private,Southern Islands
+5682000,2529.54,10,Leasehold,Private,Southern Islands
+4488000,2163.56,12,Leasehold,Private,Southern Islands
+6100000,2508.01,10,Leasehold,Private,Southern Islands
+5655300,2508.01,10,Leasehold,Private,Southern Islands
+5500000,3379.9,12,Leasehold,Private,Southern Islands
+5802000,2508.01,10,Leasehold,Private,Southern Islands
+1848888,1173.28,17,Leasehold,Private,Southern Islands
+2500000,1334.74,15,Leasehold,Private,Southern Islands
+5508000,2712.53,10,Leasehold,Private,Southern Islands
+5509000,2508.01,10,Leasehold,Private,Southern Islands
+5623000,2529.54,10,Leasehold,Private,Southern Islands
+3639000,1722.24,10,Leasehold,Private,Southern Islands
+4200000,2271.2,15,Leasehold,Private,Southern Islands
+3530000,1883.7,13,Leasehold,Private,Southern Islands
+5980700,2508.01,10,Leasehold,Private,Southern Islands
+4300000,1905.23,10,Leasehold,Private,Southern Islands
+4163000,1905.23,10,Leasehold,Private,Southern Islands
+5728000,3272.26,12,Leasehold,HDB,Southern Islands
+4200000,2497.25,14,Leasehold,Private,Southern Islands
+4639800,2163.56,12,Leasehold,Private,Southern Islands
+3150000,2174.33,13,Leasehold,Private,Southern Islands
+3500000,3056.98,17,Leasehold,Private,Southern Islands
+4650000,3272.26,12,Leasehold,Private,Southern Islands
+4150000,1905.23,10,Leasehold,Private,Southern Islands
+6280000,2970.86,12,Leasehold,Private,Southern Islands
+5744700,2508.01,10,Leasehold,Private,Southern Islands
+5783000,2508.01,10,Leasehold,Private,Southern Islands
+5847000,2669.47,12,Leasehold,Private,Southern Islands
+5601000,2508.01,10,Leasehold,Private,Southern Islands
+5680000,2508.01,10,Leasehold,Private,Southern Islands
+1895000,1173.28,17,Leasehold,Private,Southern Islands
+5550000,2508.01,10,Leasehold,Private,Southern Islands
+4199000,1905.23,10,Leasehold,Private,Southern Islands
+3300000,1872.94,12,Leasehold,Private,Southern Islands
+3400000,2055.92,14,Leasehold,Private,Southern Islands
+1900000,1184.04,17,Leasehold,Private,Southern Islands
+3560400,1679.18,10,Leasehold,Private,Southern Islands
+5700000,2508.01,10,Leasehold,Private,Southern Islands
+5762000,2508.01,10,Leasehold,Private,Southern Islands
+5627000,2680.24,12,Leasehold,Private,Southern Islands
+4818000,2787.88,12,Leasehold,Private,Southern Islands
+5564000,2508.01,10,Leasehold,Private,Southern Islands
+2315008,1603.84,17,Leasehold,Private,Southern Islands
+4067000,1905.23,10,Leasehold,Private,Southern Islands
+3800000,2185.09,12,Leasehold,Private,Southern Islands
+3380000,2163.56,13,Leasehold,Private,Southern Islands
+4609400,2680.24,13,Leasehold,Private,Southern Islands
+5527000,2508.01,10,Leasehold,Private,Southern Islands
+3659000,1722.24,10,Leasehold,Private,Southern Islands
+3.00E+06,1711.48,15,Leasehold,Private,Southern Islands
+5726000,2529.54,10,Leasehold,Private,Southern Islands
+2200000,1259.39,12,Leasehold,Private,Southern Islands
+5400000,2389.61,14,Freehold,Private,Tanglin
+3650000,2023.63,17,Freehold,Private,Tanglin
+1370000,592.02,7,Freehold,Private,Tanglin
+3350000,1560.78,22,Freehold,Private,Tanglin
+2350000,1388.56,27,Leasehold,Private,Tanglin
+1808000,861.12,8,Freehold,Private,Tanglin
+4165000,1851.41,26,Freehold,Private,Tanglin
+5665000,1959.05,9,Freehold,HDB,Tanglin
+1850000,1011.82,27,Leasehold,Private,Tanglin
+2250000,1001.05,19,Freehold,Private,Tanglin
+10698888,2949.34,11,Freehold,Private,Tanglin
+5168000,3304.55,34,Freehold,Private,Tanglin
+6700000,2012.87,13,Freehold,Private,Tanglin
+1310000,624.31,38,Freehold,Private,Tanglin
+1670000,688.9,8,Freehold,Private,Tanglin
+965000,452.09,8,Freehold,Private,Tanglin
+7280000,2411.14,21,Freehold,Private,Tanglin
+3400000,1625.36,29,Freehold,Private,Tanglin
+2050000,1001.05,19,Freehold,Private,Tanglin
+2110000,839.59,7,Freehold,Private,Tanglin
+1780000,861.12,21,Leasehold,Private,Tanglin
+2500000,1388.56,27,Leasehold,Private,Tanglin
+3200000,1388.56,15,Freehold,Private,Tanglin
+1.40E+07,3476.77,12,Freehold,Private,Tanglin
+2400000,1033.34,34,Freehold,Private,Tanglin
+985000,452.09,8,Freehold,Private,Tanglin
+2500000,1388.56,30,Freehold,Private,Tanglin
+3255000,1550.02,26,Freehold,Private,Tanglin
+2300000,1065.64,26,Freehold,Private,Tanglin
+1465000,678.13,9,Freehold,Private,Tanglin
+3232000,1539.25,36,Freehold,Private,Tanglin
+2100000,1227.1,27,Freehold,HDB,Tanglin
+1.80E+07,7556.33,40,Freehold,Private,Tanglin
+2.20E+07,6081.66,11,Freehold,Private,Tanglin
+3900000,1862.17,38,Freehold,Private,Tanglin
+2400000,1388.56,27,Leasehold,Private,Tanglin
+2300000,979.52,7,Leasehold,Private,Tanglin
+2950000,1463.9,34,Freehold,Private,Tanglin
+3229000,1270.15,19,Freehold,Private,Tanglin
+3100000,1431.61,21,Leasehold,Private,Tanglin
+3.00E+06,1668.42,27,Leasehold,Private,Tanglin
+15200000,5747.98,26,Freehold,Private,Tanglin
+2430000,1388.56,27,Leasehold,Private,Tanglin
+20500000,4284.07,12,Freehold,Private,Tanglin
+1450000,764.24,26,Freehold,Private,Tanglin
+1780000,753.48,21,Leasehold,Private,Tanglin
+2700000,1668.42,27,Leasehold,Private,Tanglin
+2500000,1001.05,9,Freehold,HDB,Tanglin
+9398888,2432.66,11,Freehold,Private,Tanglin
+3810000,1733,14,Freehold,Private,Tanglin
+3350000,1668.42,30,Freehold,Private,Tanglin
+2700000,1323.97,19,Freehold,Private,Tanglin
+2408000,1184.04,26,Freehold,Private,Tanglin
+1890000,1162.51,7,Leasehold,Private,Tanglin
+1172000,602.78,7,Leasehold,Private,Tanglin
+3690000,1754.53,26,Freehold,Private,Tanglin
+8540000,2669.47,19,Freehold,Private,Tanglin
+2415000,1388.56,27,Leasehold,Private,Tanglin
+2480000,1216.33,8,Freehold,Private,Tanglin
+1500000,796.54,26,Freehold,HDB,Tanglin
+2825000,1388.56,7,Leasehold,Private,Tanglin
+2595000,1108.69,34,Freehold,HDB,Tanglin
+3300000,1313.21,19,Freehold,Private,Tanglin
+6477000,3175.38,33,Freehold,Private,Tanglin
+3810000,1722.24,26,Freehold,Private,Tanglin
+1428000,785.77,19,Freehold,Private,Tanglin
+4625000,2325.02,38,Freehold,Private,Tanglin
+7580000,3519.83,21,Freehold,Private,Tanglin
+6780000,2012.87,13,Freehold,Private,Tanglin
+3070000,1453.14,14,Freehold,Private,Tanglin
+2620000,1388.56,7,Leasehold,Private,Tanglin
+2307000,1065.64,14,Freehold,Private,Tanglin
+6800000,2271.2,21,Freehold,Private,Tanglin
+2700000,1442.38,7,Leasehold,Private,Tanglin
+7500000,3261.49,21,Freehold,Private,Tanglin
+2900000,1237.86,14,Freehold,Private,Tanglin
+5680000,1959.05,7,Freehold,Private,Tanglin
+3200000,1334.74,35,Freehold,Private,Tanglin
+2330000,1237.86,26,Freehold,HDB,Tanglin
+2638000,1108.69,36,Freehold,Private,Tanglin
+3940000,1969.81,26,Freehold,Private,Tanglin
+2890000,1517.72,26,Freehold,Private,Tanglin
+2788000,1323.97,14,Freehold,Private,Tanglin
+2120000,1334.74,19,Freehold,Private,Tanglin
+5150000,2260.44,33,Freehold,Private,Tanglin
+3180000,1668.42,27,Leasehold,Private,Tanglin
+10700000,2938.57,11,Freehold,Private,Tanglin
+2530000,1216.33,8,Freehold,HDB,Tanglin
+8880000,2669.47,19,Freehold,Private,Tanglin
+1010000,548.96,7,Leasehold,HDB,Tanglin
+1702000,893.41,7,Leasehold,Private,Tanglin
+2680000,1216.33,26,Freehold,Private,Tanglin
+1800000,947.23,26,Freehold,Private,Tanglin
+2618000,1216.33,26,Freehold,Private,Tanglin
+1830000,1011.82,27,Leasehold,Private,Tanglin
+3008000,1560.78,41,Freehold,Private,Tanglin
+5650000,1926.76,13,Freehold,Private,Tanglin
+3300000,1291.68,23,Freehold,Private,Tanglin
+1610000,688.9,8,Freehold,Private,Tanglin
+1520000,1173.28,19,Freehold,Private,Tanglin
+3980000,1829.88,13,Freehold,Private,Tanglin
+1682000,688.9,8,Freehold,Private,Tanglin
+4.00E+06,2228.15,27,Freehold,Private,Tanglin
+1970000,1065.64,11,Freehold,HDB,Tanglin
+2850000,1291.68,8,Freehold,HDB,Tanglin
+7850000,3229.2,21,Freehold,Private,Tanglin
+1745000,871.88,7,Leasehold,Private,Tanglin
+3880000,1733,26,Freehold,Private,Tanglin
+2500000,1420.85,27,Freehold,Private,Tanglin
+2180000,1184.04,7,Leasehold,Private,Tanglin
+1550000,678.13,8,Freehold,Private,Tanglin
+7100000,3379.9,13,Freehold,Private,Tanglin
+1870000,775.01,8,Freehold,HDB,Tanglin
+4250000,1948.28,38,Freehold,Private,Tanglin
+2750000,1259.39,29,Freehold,Private,Tanglin
+3050000,1248.62,33,Freehold,Private,Tanglin
+2680000,1216.33,26,Freehold,Private,Tanglin
+1700000,893.41,7,Leasehold,Private,Tanglin
+3620000,1829.88,27,Freehold,Private,Tanglin
+1850000,1011.82,27,Leasehold,Private,Tanglin
+2725000,1076.4,9,Freehold,Private,Tanglin
+7225000,2992.39,21,Freehold,Private,Tanglin
+2850000,1302.44,38,Freehold,HDB,Tanglin
+3680000,1743.77,18,Freehold,Private,Tanglin
+5200000,2249.68,36,Freehold,Private,Tanglin
+3300000,1216.33,7,Freehold,Private,Tanglin
+3780000,1829.88,27,Freehold,Private,Tanglin
+5430000,1926.76,13,Freehold,Private,Tanglin
+2450000,1022.58,34,Freehold,Private,Tanglin
+1250000,624.31,7,Leasehold,Private,Tanglin
+3850000,1700.71,26,Freehold,Private,Tanglin
+2400000,1216.33,26,Freehold,HDB,Tanglin
+4300000,1948.28,14,Freehold,Private,Tanglin
+2540000,1001.05,9,Freehold,Private,Tanglin
+3820000,1808.35,24,Freehold,Private,Tanglin
+3220000,1668.42,30,Freehold,Private,Tanglin
+3730000,1550.02,19,Freehold,Private,Tanglin
+1508000,699.66,7,Leasehold,Private,Tanglin
+2583000,1722.24,27,Leasehold,Private,Tanglin
+1880000,861.12,8,Freehold,HDB,Tanglin
+2438000,1022.58,34,Freehold,Private,Tanglin
+1550000,678.13,8,Freehold,Private,Tanglin
+3880000,1410.08,7,Freehold,HDB,Tanglin
+4100000,2131.27,26,Freehold,Private,Tanglin
+6428888,2927.81,14,Freehold,Private,Tanglin
+4800000,2658.71,14,Freehold,Private,Tanglin
+4060000,1808.35,26,Freehold,Private,Tanglin
+3780000,1905.23,7,Leasehold,Private,Tanglin
+4125000,1948.28,38,Freehold,HDB,Tanglin
+2960000,1571.54,29,Freehold,Private,Tanglin
+5100000,2884.75,8,Freehold,Private,Tanglin
+2600000,1388.56,7,Leasehold,Private,Tanglin
+2200000,1022.58,34,Freehold,Private,Tanglin
+2500000,1550.02,27,Freehold,Private,Toa Payoh
+980000,570.49,7,Leasehold,Private,Toa Payoh
+8.00E+05,441.32,7,Leasehold,HDB,Toa Payoh
+908000,495.14,1,Leasehold,Private,Toa Payoh
+1485000,925.7,12,Leasehold,Private,Toa Payoh
+2288888,1108.69,1,Leasehold,Private,Toa Payoh
+1260000,645.84,1,Leasehold,HDB,Toa Payoh
+1480000,742.72,1,Leasehold,Private,Toa Payoh
+2050000,1108.69,1,Leasehold,HDB,Toa Payoh
+1720000,936.47,4,Leasehold,Private,Toa Payoh
+1008888,462.85,2,Leasehold,Private,Toa Payoh
+1200000,645.84,1,Leasehold,HDB,Toa Payoh
+1368000,828.83,11,Leasehold,Private,Toa Payoh
+860000,452.09,4,Leasehold,HDB,Toa Payoh
+2355000,1313.21,4,Leasehold,Private,Toa Payoh
+960000,581.26,7,Leasehold,Private,Toa Payoh
+1280000,721.19,7,Leasehold,Private,Toa Payoh
+1328000,678.13,4,Leasehold,Private,Toa Payoh
+1800000,1011.82,4,Leasehold,Private,Toa Payoh
+955000,505.91,1,Leasehold,Private,Toa Payoh
+1070000,570.49,4,Leasehold,Private,Toa Payoh
+2700000,1550.02,7,Leasehold,Private,Toa Payoh
+865000,462.85,7,Leasehold,HDB,Toa Payoh
+940000,484.38,4,Leasehold,Private,Toa Payoh
+1405000,839.59,11,Leasehold,Private,Toa Payoh
+1142888,667.37,2,Leasehold,Private,Toa Payoh
+1730000,1054.87,7,Leasehold,HDB,Toa Payoh
+2250000,1270.15,12,Leasehold,Private,Toa Payoh
+1480000,678.13,2,Leasehold,Private,Toa Payoh
+1425000,753.48,1,Leasehold,Private,Toa Payoh
+1399000,861.12,12,Leasehold,Private,Toa Payoh
+1350000,699.66,1,Leasehold,HDB,Toa Payoh
+1520000,818.06,7,Leasehold,HDB,Toa Payoh
+1080000,592.02,4,Leasehold,Private,Toa Payoh
+2858000,1560.78,12,Leasehold,HDB,Toa Payoh
+1780000,947.23,4,Leasehold,Private,Toa Payoh
+1900000,1097.93,11,Leasehold,Private,Toa Payoh
+1980000,1119.46,12,Leasehold,HDB,Toa Payoh
+2200000,1614.6,12,Leasehold,Private,Toa Payoh
+1533888,882.65,7,Leasehold,Private,Toa Payoh
+2060000,1280.92,12,Leasehold,Private,Toa Payoh
+1310000,699.66,1,Leasehold,HDB,Toa Payoh
+1988888,1108.69,1,Leasehold,Private,Toa Payoh
+1400000,828.83,11,Leasehold,Private,Toa Payoh
+5750000,2712.53,13,Freehold,Private,Toa Payoh
+2490000,1302.44,7,Leasehold,HDB,Toa Payoh
+2840000,1485.43,23,Freehold,Private,Toa Payoh
+1490000,850.36,7,Leasehold,Private,Toa Payoh
+2850000,1625.36,24,Freehold,Private,Toa Payoh
+920000,570.49,7,Leasehold,HDB,Toa Payoh
+1235000,721.19,7,Leasehold,HDB,Toa Payoh
+985000,462.85,2,Leasehold,Private,Toa Payoh
+723888,398.27,11,Leasehold,HDB,Toa Payoh
+2.00E+06,979.52,2,Leasehold,Private,Toa Payoh
+2200000,979.52,2,Leasehold,Private,Toa Payoh
+920000,505.91,1,Leasehold,Private,Toa Payoh
+1518000,958,7,Leasehold,Private,Toa Payoh
+1390000,699.66,1,Leasehold,HDB,Toa Payoh
+725000,462.85,12,Leasehold,HDB,Toa Payoh
+850000,452.09,4,Leasehold,Private,Toa Payoh
+2208000,1248.62,4,Leasehold,HDB,Toa Payoh
+1350000,753.48,1,Leasehold,Private,Toa Payoh
+1468000,742.72,1,Leasehold,Private,Toa Payoh
+925000,495.14,1,Leasehold,Private,Toa Payoh
+1500000,818.06,7,Leasehold,Private,Toa Payoh
+975000,505.91,1,Leasehold,HDB,Toa Payoh
+2108888,1173.28,7,Leasehold,Private,Toa Payoh
+1680000,958,11,Leasehold,Private,Toa Payoh
+2200000,1205.57,16,Freehold,HDB,Toa Payoh
+2450000,1313.21,4,Leasehold,HDB,Toa Payoh
+1220000,645.84,1,Leasehold,Private,Toa Payoh
+2168000,1162.51,23,Freehold,Private,Toa Payoh
+930000,505.91,1,Leasehold,HDB,Toa Payoh
+1450000,861.12,11,Leasehold,Private,Toa Payoh
+2648000,1625.36,24,Freehold,Private,Toa Payoh
+880000,527.44,7,Leasehold,Private,Toa Payoh
+708000,462.85,12,Leasehold,Private,Toa Payoh
+1150000,624.31,1,Leasehold,Private,Toa Payoh
+2390000,1603.84,12,Leasehold,HDB,Toa Payoh
+1450000,850.36,7,Leasehold,Private,Toa Payoh
+2043000,1140.98,23,Freehold,Private,Toa Payoh
+1395000,1227.1,7,Leasehold,Private,Toa Payoh
+1695000,1033.34,7,Leasehold,Private,Toa Payoh
+1139000,613.55,1,Leasehold,Private,Toa Payoh
+2100000,1097.93,1,Leasehold,Private,Toa Payoh
+1200000,667.37,2,Leasehold,Private,Toa Payoh
+1632000,882.65,7,Leasehold,HDB,Toa Payoh
+1450888,753.48,1,Leasehold,Private,Toa Payoh
+1390000,602.78,2,Leasehold,HDB,Toa Payoh
+1200000,624.31,1,Leasehold,Private,Toa Payoh
+890000,495.14,1,Leasehold,Private,Toa Payoh
+1130000,667.37,2,Leasehold,HDB,Toa Payoh
+1340000,688.9,1,Leasehold,Private,Toa Payoh
+1188000,613.55,1,Leasehold,HDB,Toa Payoh
+1230000,624.31,1,Leasehold,HDB,Toa Payoh
+1528000,882.65,7,Leasehold,Private,Toa Payoh
+1200000,624.31,1,Leasehold,HDB,Toa Payoh
+3120000,1625.36,24,Freehold,HDB,Toa Payoh
+1440000,742.72,1,Leasehold,Private,Toa Payoh
+1510000,828.83,7,Leasehold,HDB,Toa Payoh
+990000,462.85,2,Leasehold,HDB,Toa Payoh
+1950000,1011.82,4,Leasehold,HDB,Toa Payoh
+1018000,570.49,7,Leasehold,HDB,Toa Payoh
+1550000,796.54,1,Leasehold,HDB,Toa Payoh
+1365000,699.66,1,Leasehold,Private,Toa Payoh
+3620000,1711.48,2,Leasehold,Private,Toa Payoh
+1200000,645.84,1,Leasehold,HDB,Toa Payoh
+1450000,742.72,1,Leasehold,HDB,Toa Payoh
+1325000,699.66,1,Leasehold,Private,Toa Payoh
+1200000,678.13,4,Leasehold,Private,Toa Payoh
+2100000,1022.58,2,Leasehold,HDB,Toa Payoh
+1228000,570.49,2,Leasehold,Private,Toa Payoh
+9.00E+05,527.44,7,Leasehold,Private,Toa Payoh
+2880000,1485.43,23,Freehold,Private,Toa Payoh
+1950000,1011.82,1,Leasehold,Private,Toa Payoh
+1368000,699.66,1,Leasehold,Private,Toa Payoh
+1760000,947.23,4,Leasehold,Private,Toa Payoh
+2130000,1205.57,16,Freehold,Private,Toa Payoh
+958000,505.91,1,Leasehold,Private,Toa Payoh
+1668000,968.76,7,Leasehold,HDB,Toa Payoh
+1460000,775.01,4,Leasehold,Private,Toa Payoh
+1848000,1054.87,15,Freehold,HDB,Toa Payoh
+1620000,979.52,4,Leasehold,HDB,Toa Payoh
+2600000,1399.32,24,Freehold,Private,Toa Payoh
+1528000,678.13,2,Leasehold,Private,Toa Payoh
+1920000,1011.82,1,Leasehold,HDB,Toa Payoh
+2150000,1205.57,16,Freehold,HDB,Toa Payoh
+1488000,678.13,2,Leasehold,Private,Toa Payoh
+1418888,828.83,11,Leasehold,HDB,Toa Payoh
+1365000,699.66,1,Leasehold,HDB,Toa Payoh
+2400000,1302.44,7,Leasehold,Private,Toa Payoh
+1750000,1097.93,7,Leasehold,Private,Toa Payoh
+1468000,850.36,7,Leasehold,HDB,Toa Payoh
+1750000,979.52,4,Leasehold,Private,Toa Payoh
+2441000,1065.64,2,Leasehold,Private,Toa Payoh
+1538000,678.13,2,Leasehold,HDB,Toa Payoh
+1830000,1033.34,7,Leasehold,Private,Toa Payoh
+1688000,947.23,4,Leasehold,Private,Toa Payoh
+1030000,570.49,4,Leasehold,Private,Toa Payoh
+2600000,1410.08,16,Freehold,Private,Toa Payoh
+1480000,850.36,7,Leasehold,Private,Toa Payoh
+1170000,645.84,1,Leasehold,HDB,Toa Payoh
+1460000,678.13,2,Leasehold,Private,Toa Payoh
+2390000,1302.44,7,Leasehold,Private,Toa Payoh
+1500000,893.41,12,Leasehold,Private,Toa Payoh
+888888,527.44,7,Leasehold,HDB,Toa Payoh
+1460000,839.59,11,Leasehold,Private,Toa Payoh
+1270000,645.84,1,Leasehold,HDB,Toa Payoh
+1035000,602.78,7,Leasehold,Private,Toa Payoh
+935000,581.26,7,Leasehold,Private,Toa Payoh
+1870000,1044.11,7,Leasehold,HDB,Toa Payoh
+1548000,861.12,12,Leasehold,HDB,Toa Payoh
+1360000,699.66,1,Leasehold,Private,Toa Payoh
+1200000,645.84,1,Leasehold,Private,Toa Payoh
+1422000,828.83,7,Leasehold,HDB,Toa Payoh
+1378000,688.9,1,Leasehold,Private,Toa Payoh
+1230000,678.13,4,Leasehold,HDB,Toa Payoh
+2150000,1108.69,1,Leasehold,Private,Toa Payoh
+1488000,861.12,11,Leasehold,HDB,Toa Payoh
+888000,505.91,1,Leasehold,HDB,Toa Payoh
+2600000,1313.21,4,Leasehold,Private,Toa Payoh
+2250000,1108.69,1,Leasehold,Private,Toa Payoh
+1890000,1011.82,1,Leasehold,Private,Toa Payoh
+990000,462.85,2,Leasehold,HDB,Toa Payoh
+2018000,1205.57,15,Freehold,Private,Toa Payoh
+1350000,635.08,2,Leasehold,Private,Toa Payoh
+2840000,1722.24,16,Freehold,HDB,Toa Payoh
+1500000,678.13,2,Leasehold,Private,Toa Payoh
+1520000,861.12,7,Leasehold,Private,Toa Payoh
+1250000,678.13,4,Leasehold,HDB,Toa Payoh
+1350000,699.66,1,Leasehold,Private,Toa Payoh
+898000,495.14,1,Leasehold,Private,Toa Payoh
+2090000,1097.93,1,Leasehold,Private,Toa Payoh
+930000,484.38,4,Leasehold,HDB,Toa Payoh
+1420000,742.72,1,Leasehold,Private,Toa Payoh
+1288000,635.08,2,Leasehold,Private,Toa Payoh
+1330000,721.19,7,Leasehold,HDB,Toa Payoh
+5.00E+06,2271.2,13,Freehold,HDB,Toa Payoh
+1338000,839.59,7,Leasehold,Private,Toa Payoh
+2180000,1054.87,4,Leasehold,Private,Toa Payoh
+950000,505.91,1,Leasehold,Private,Toa Payoh
+1550000,871.88,2,Leasehold,HDB,Toa Payoh
+2228000,1108.69,1,Leasehold,Private,Toa Payoh
+1386000,742.72,1,Leasehold,HDB,Toa Payoh
+1750000,968.76,7,Leasehold,Private,Toa Payoh
+1380000,850.36,7,Leasehold,Private,Toa Payoh
+1860000,1140.98,12,Leasehold,Private,Toa Payoh
+1170000,613.55,1,Leasehold,Private,Toa Payoh
+1950000,1431.61,7,Leasehold,HDB,Toa Payoh
+1355000,742.72,1,Leasehold,HDB,Toa Payoh
+1438888,699.66,1,Leasehold,Private,Toa Payoh
+1310000,699.66,1,Leasehold,HDB,Toa Payoh
+1150000,645.84,1,Leasehold,Private,Toa Payoh
+1275000,688.9,1,Leasehold,HDB,Toa Payoh
+1350000,742.72,1,Leasehold,HDB,Toa Payoh
+2290000,1442.38,14,Freehold,Private,Toa Payoh
+1500000,871.88,2,Leasehold,HDB,Toa Payoh
+1065000,688.9,7,Leasehold,HDB,Toa Payoh
+1830000,1011.82,1,Leasehold,HDB,Toa Payoh
+1450000,742.72,1,Leasehold,HDB,Toa Payoh
+1750000,1140.98,12,Leasehold,Private,Toa Payoh
+2050000,1119.46,12,Leasehold,Private,Toa Payoh
+1400000,947.23,14,Freehold,HDB,Toa Payoh
+2250000,1108.69,1,Leasehold,HDB,Toa Payoh
+925000,495.14,1,Leasehold,HDB,Toa Payoh
+1670000,947.23,4,Leasehold,Private,Toa Payoh
+1340000,699.66,1,Leasehold,Private,Toa Payoh
+1210000,635.08,1,Leasehold,HDB,Toa Payoh
+1680000,936.47,4,Leasehold,HDB,Toa Payoh
+880000,505.91,1,Leasehold,Private,Toa Payoh
+1295000,699.66,1,Leasehold,Private,Toa Payoh
+1720000,968.76,7,Leasehold,HDB,Toa Payoh
+1650000,936.47,4,Leasehold,HDB,Toa Payoh
+1035000,592.02,4,Leasehold,HDB,Toa Payoh
+1918000,1054.87,4,Leasehold,HDB,Toa Payoh
+1190000,731.95,7,Leasehold,Private,Toa Payoh
+803888,441.32,7,Leasehold,HDB,Toa Payoh
+1500000,678.13,2,Leasehold,Private,Toa Payoh
+1928888,1011.82,1,Leasehold,Private,Toa Payoh
+1220000,624.31,2,Leasehold,Private,Toa Payoh
+905000,581.26,7,Leasehold,Private,Toa Payoh
+1360000,775.01,4,Leasehold,HDB,Toa Payoh
+2080000,1097.93,1,Leasehold,Private,Toa Payoh
+2750000,1367.03,2,Leasehold,Private,Toa Payoh
+1500000,667.37,2,Leasehold,HDB,Toa Payoh
+1680000,925.7,12,Leasehold,HDB,Toa Payoh
+2140000,979.52,2,Leasehold,Private,Toa Payoh
+1840000,1044.11,7,Leasehold,HDB,Toa Payoh
+1220000,635.08,1,Leasehold,HDB,Toa Payoh
+880000,495.14,1,Leasehold,Private,Toa Payoh
+1180000,613.55,1,Leasehold,HDB,Toa Payoh
+1158000,688.9,12,Leasehold,HDB,Toa Payoh
+2120000,1097.93,1,Leasehold,HDB,Toa Payoh
+1428000,699.66,1,Leasehold,HDB,Toa Payoh
+1350000,678.13,2,Leasehold,Private,Toa Payoh
+2700000,1840.64,7,Leasehold,Private,Toa Payoh
+3.00E+06,2281.97,7,Leasehold,Private,Toa Payoh
+2250000,1786.82,7,Leasehold,HDB,Toa Payoh
+938000,505.91,1,Leasehold,HDB,Toa Payoh
+1260000,721.19,7,Leasehold,HDB,Toa Payoh
+1735000,968.76,7,Leasehold,Private,Toa Payoh
+1280000,742.72,7,Leasehold,HDB,Toa Payoh
+2218888,1097.93,1,Leasehold,Private,Toa Payoh
+1520000,850.36,7,Leasehold,Private,Toa Payoh
+1200000,656.6,7,Leasehold,Private,Toa Payoh
+1458000,861.12,11,Leasehold,HDB,Toa Payoh
+1340000,699.66,1,Leasehold,Private,Toa Payoh
+2355000,1248.62,4,Leasehold,HDB,Toa Payoh
+1165000,656.6,7,Leasehold,HDB,Toa Payoh
+1450000,828.83,7,Leasehold,HDB,Toa Payoh
+808000,462.85,7,Leasehold,Private,Toa Payoh
+1500000,678.13,2,Leasehold,Private,Toa Payoh
+5500000,2712.53,13,Freehold,Private,Toa Payoh
+1345000,688.9,1,Leasehold,Private,Toa Payoh
+1240000,624.31,1,Leasehold,HDB,Toa Payoh
+938000,462.85,2,Leasehold,Private,Toa Payoh
+1368000,742.72,1,Leasehold,Private,Toa Payoh
+1519999,861.12,7,Leasehold,Private,Toa Payoh
+2200000,1173.28,7,Leasehold,Private,Toa Payoh
+1230000,678.13,4,Leasehold,HDB,Toa Payoh
+913131,495.14,1,Leasehold,HDB,Toa Payoh
+1350000,753.48,1,Leasehold,Private,Toa Payoh
+1385000,635.08,2,Leasehold,Private,Toa Payoh
+808000,559.73,7,Leasehold,HDB,Toa Payoh
+1060000,914.94,7,Leasehold,HDB,Toa Payoh
+1670000,1033.34,14,Freehold,Private,Toa Payoh
+1208000,742.72,7,Leasehold,HDB,Toa Payoh
+1400000,775.01,4,Leasehold,Private,Toa Payoh
+1138888,613.55,1,Leasehold,Private,Toa Payoh
+1400000,699.66,1,Leasehold,HDB,Toa Payoh
+949000,495.14,1,Leasehold,HDB,Toa Payoh
+2.00E+06,1173.28,7,Leasehold,Private,Toa Payoh
+948888,462.85,2,Leasehold,HDB,Toa Payoh
+1450000,678.13,2,Leasehold,HDB,Toa Payoh
+2150000,1097.93,1,Leasehold,HDB,Toa Payoh
+2063000,1108.69,1,Leasehold,Private,Toa Payoh
+1545000,968.76,7,Leasehold,Private,Toa Payoh
+1700000,958,11,Leasehold,Private,Toa Payoh
+2740000,1485.43,23,Freehold,HDB,Toa Payoh
+1670000,968.76,7,Leasehold,HDB,Toa Payoh
+1950000,1140.98,12,Leasehold,Private,Toa Payoh
+1870000,1130.22,12,Leasehold,HDB,Toa Payoh
+3060000,1625.36,24,Freehold,Private,Toa Payoh
+1086000,592.02,4,Leasehold,Private,Toa Payoh
+1400000,699.66,1,Leasehold,Private,Toa Payoh
+1880000,1097.93,11,Leasehold,HDB,Toa Payoh
+1438888,839.59,11,Leasehold,Private,Toa Payoh
+1293000,742.72,7,Leasehold,Private,Toa Payoh
+918000,505.91,1,Leasehold,HDB,Toa Payoh
+2558300,1334.74,1,Leasehold,Private,Toa Payoh
+2180000,1108.69,1,Leasehold,Private,Toa Payoh
+1650000,1108.69,7,Leasehold,HDB,Toa Payoh
+810000,484.38,7,Leasehold,HDB,Toa Payoh
+1428888,775.01,4,Leasehold,Private,Toa Payoh
+935000,570.49,7,Leasehold,Private,Toa Payoh
+2250000,2195.86,16,Freehold,Private,Toa Payoh
+2150000,1227.1,14,Freehold,Private,Toa Payoh
+1450000,753.48,1,Leasehold,Private,Toa Payoh
+2015000,914.94,2,Leasehold,Private,Toa Payoh
+984000,462.85,2,Leasehold,HDB,Toa Payoh
+1725000,1033.34,7,Leasehold,HDB,Toa Payoh
